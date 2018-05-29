@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<output date="(1)">
+  <article id="(2)" url=(3)>
+    <original-article>
+      <author>
+        <authorName>(authorName)</authorName>
+        <authorId>(authorId)</authorId>
+      </author>
+      <headline>
+        <headline-intro>(headlineIntro)</headline-intro>
+        <headline-body>(headline)</headline-body>
+      </headline>
+      <article-body>
+        <article-intro>(articleIntro)</article-intro>
+        <article-text>(articleBody)</article-text>
+      </article-body>
+    </original-article>
+    <Comments>
+      <Comment>
+        <userName>(userName)</userName>
+        <userID>(userId)<userID/>
+        <commentDate>(commentDate)</commentDate>
+        <commentTitle>(commentTitle)</commentTitle>
+		<commentId>(commentId)</commentId>
+        <commentBody>
+          <quote target="(quoteTarget)">(quote)</quote>
+          <comment>(commentBody)</comment>
+        </commentBody>
+      </Comment>
+	  <Comment>
+		[...]
+	  </Comment>
+    </Comments>
+  </article>
+</output>
+

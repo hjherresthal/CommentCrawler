@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<output date="2018-03-25T12:27:42.777">
+  <article id="1" url="https://www.heise.de/newsticker/meldung/Landes-Datenschutzaufsicht-Microsoft-muss-Datenuebertragung-in-Windows-10-abschalten-4003291.html">
+    <original-article>
+      <author>
+        <authorName>Christiane Schulzki-Haddouti</authorName>
+        <authorId>mailto:tiw@heise.de</authorId>
+      </author>
+      <headline>
+        <headline-intro>Netzpolitik</headline-intro>
+        <headline-body>Landes-Datenschutzaufsicht: Microsoft muss Datenübertragung in Windows 10 abschalten</headline-body>
+      </headline>
+      <article-body>
+        <article-intro>Der baden-württembergische Landesdatenschutzbeauftragte fordert Microsoft auf, Windows 10 hinsichtlich ungeklärter Datentransfers „schleunigst nachzubessern“. Längst bekannte Sicherheitsbedenken sind noch immer nicht ausgeräumt.</article-intro>
+        <article-text>Landes-Datenschutzaufsicht: Microsoft muss Datenübertragung in Windows 10 abschalten 24.03.2018 14:22 Uhr Christiane Schulzki-Haddouti vorlesen (Bild: dpa, Jagadeesh Nv/Symbolbild) Der baden-württembergische Landesdatenschutzbeauftragte fordert Microsoft auf, Windows 10 hinsichtlich ungeklärter Datentransfers „schleunigst nachzubessern“. Längst bekannte Sicherheitsbedenken sind noch immer nicht ausgeräumt. Microsoft liefert deutschen Behörden die Bürostandardsoftware. In einzelnen Behörden ist bereits Windows 10 trotz Sicherheitsbedenken im Einsatz. Obwohl die Online-Services vollständig deaktiviert sind, werden weiterhin einige verschlüsselte Datensätze an Microsoft übermittelt. Wie heise online erfuhr, hat die BITBW als IT-Dienstleisterin für die Landesverwaltung in Baden-Württemberg aber ungeachtet der offenen Sicherheitsfragen unter anderem die Landesdatenschutzbehörde bereits mit Windows 10 ausgestattet. Microsoft soll sich an DSGVO halten Der baden-württembergische Landesdatenschutzbeauftragte Stefan Brink fordert nun Microsoft mit Blick auf die bekannt gewordenen Sicherheitslücken auf, "schleunigst nachzubessern und sich spätestens ab Ende Mai an die Datenschutz-Grundverordnung zu halten". Die Systemadministratoren der betroffenen Systeme sollen bis dahin "durch entsprechende Grundeinstellungen dafür sorgen, dass möglichst wenig übertragen wird." Anzeige Was den Einsatz von Windows 10 im eigenen Haus anbelangt, weist Brink gegenüber heise online darauf hin, dass die dort eingesetzte Hard- und Software zwar kontinuierlich geprüft und bewertet werde, dass er "jedoch keine generelle Freigabe von Produkten mit verbindlicher Wirkung für die Verwaltung insgesamt" erteile. Mit Blick auf die BITBW sagte er, dass er allerdings den Einsatz problematischer Produkte beanstanden und damit deren fortgesetzte Nutzung entgegentreten könne – "ab Mai 2018 sogar mit verbindlicher Wirkung". Dabei stellte Brink auch die rechtlichen Anforderungen an die öffentliche Beschaffung klar: "Ein Dienstleister, der diesen Anforderungen nicht genügen kann oder will, scheidet künftig aus dem Kreis derjenigen aus, mit denen ein datenschutzrechtlich Verantwortlicher kooperieren kann." Brink hat dabei aber nicht nur das eigene Haus im Blick. Gegenüber heise online betonte er, dass "jeder Nutzer von Windows 10, wie auch anderen Betriebssystemen und Anwendungen, die volle Kontrolle über seine Daten haben muss". Es müsse "volle Transparenz bezüglich der übertragenen Daten herrschen und der Anwender muss jede Übertragung deaktivieren können". Abhängigkeit wegen Windows-Anwendungen Die eigene Situation sieht Stefan Brink "durchaus selbstkritisch", sieht sich aber in der gleichen Situation wie viele andere Behörden: "Derzeit setzen viele in der öffentlichen Verwaltung eingesetzte Anwendungen Windows voraus. Hier umzusteuern fällt vielen Verwaltungen – wie auch Privatunternehmen – natürlich schwer." Viele hätten sich damit in "eine faktische Abhängigkeit zu bestimmten Anbietern manövriert", wobei Brink darin auch eine „gefühlte Abhängigkeit“ sieht. Die Handlungsspielräume seien jedoch "tatsächlich äußerst gering, gerade wenn es um stabile und sichere Kommunikation in Behördennetzen geht", sagt Brink. Deshalb müssten Alternativen stärker beachtet und unterstützt werden, was auch die Ausbildung betreffe. Zum Einsatz von Windows 10 an Schulen gibt es bereits seit längerem eine eigene Arbeitsgruppe der Datenschutzkonferenz. Brink: "Derzeit liegen uns noch nicht alle Stellungnahmen, insbesondere des BSI vor." Der Arbeitskreis Verwaltungsmodernisierung bemüht sich derzeit zu gemeinsamen Positionen und Forderungen aller deutschen Aufsichtsbehörden zu kommen. Brink erwartet, dass sich die Datenschutzkonferenz noch vor Mitte 2018 dazu äußern wird, ob der Einsatz von Windows 10 rechtmäßig ist. (Christiane Schulzki-Haddouti) / (tiw) Kommentare lesen (170 Beiträge) zur Startseite Forum zum Thema: Windows 10 https://heise.de/-4003291 Drucken Mehr zum Thema: Datenschutz Microsoft Windows Windows 10</article-text>
+      </article-body>
+    </original-article>
+    <Comments>
+      <Comment>
+        <userName>KritikMussSein</userName>
+        <commentDate>2018-03-25T09:59:00</commentDate>
+        <commentTitle>Nutzen Sie Windows 10 in ihrem Betrieb?</commentTitle>
+        <commentId>posting_32094866</commentId>
+        <commentBody>
+          <comment>Oder ihrer Praxis, ihrer Werkstatt, oder ihrer Bank? Ja? Demnächst? Dann tut es mir leid, ich suche mir einen anderen Anbieter. Ich bin für ein deutlich sichtbaren Hinweis am Eingang (Tür oder Webseite), welches OS und welche Cloud für die Verarbeitung der Kundendaten benutzt wird. Genauso, wie ein Hinweis auf Sprachassistenten in privaten Räumen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>woistmeinebanane</userName>
+        <commentDate>2018-03-25T09:42:33</commentDate>
+        <commentTitle>Selbstverständlich müssen Herrn Trumps Geheimdienste Windows Nutzer überwachen!</commentTitle>
+        <commentId>posting_32094813</commentId>
+        <commentBody>
+          <comment>Aus Deutschland droht Kommunisten, Islamisten, Feministen, Veganer und Nazi Gefahr! Vergesst nicht: auch die 9/11 Islamistenterrorflieger kamen aus Deutschland. NSA &amp; CIA, best Service Money can buy! Husch, husch, zum heise Preisvergleich: &gt; https://www.heise.de/preisvergleich/?cat=ossoft&amp;xf=400_Windows+10</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>UT99</userName>
+        <commentDate>2018-03-25T09:51:19</commentDate>
+        <commentTitle>Re: Selbstverständlich müssen Herrn Trumps Geheimdienste Windows Nutzer überwach</commentTitle>
+        <commentId>posting_32094840</commentId>
+        <commentBody>
+          <comment>Mit Trump hat das nichts zu tun. Ohne Trump wäre nichts anders.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Vierminutenei</userName>
+        <commentDate>2018-03-25T10:06:56</commentDate>
+        <commentTitle>Bei Obamas Geheimdiensten war's dir egal?</commentTitle>
+        <commentId>posting_32094891</commentId>
+        <commentBody>
+          <comment>Und bei Killarys Geheimdiensten wär's dir egal? Aus Deutschland droht Kommunisten, Islamisten, Feministen, Veganer und Nazi Gefahr! Vergesst nicht: auch die 9/11 Islamistenterrorflieger kamen aus Deutschland. Nicht nur "aus", sondern vor allem "für". deppenleerzeichen.de</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>schmofarz</userName>
+        <commentDate>2018-03-25T09:28:34</commentDate>
+        <commentTitle>Das wird bestimmt wieder so eine zahnlose Nummer, wie die Browserauswahl.</commentTitle>
+        <commentId>posting_32094761</commentId>
+        <commentBody>
+          <comment>Dann gilt die Verordnung nur für Windows 10, und Voila, plötzlich gibt es doch ein Windows 11. Extra für Deutschland. Gruß</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>robowarp</userName>
+        <commentDate>2018-03-25T08:51:33</commentDate>
+        <commentTitle>Zeit wirds</commentTitle>
+        <commentId>posting_32094642</commentId>
+        <commentBody>
+          <comment>ich bin nicht gegen Windows, aber es sollte wirklich nur da eingesetzt werden wo es nicht anderes geht. Und Daten nach Hause schicken geht schon mal gar nicht. Ausserdem sind die Quellcodes weitgehend offenzulegen. Gilt aber auch fuer andere Markteilnehmer. Wem das nicht passt sollte per se an oeffentlichen Ausschreibungen nicht mehr teilnehmen duerfen mind in der ganzen EU.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>AlterHeiseFan</userName>
+        <commentDate>2018-03-25T08:49:05</commentDate>
+        <commentTitle>Warum sollte Microsoft das tun?</commentTitle>
+        <commentId>posting_32094634</commentId>
+        <commentBody>
+          <comment>Die bieten ein OS an, das ist, wie es ist. Und jeder Anwender kann sich das für ihn passende OS aussuchen. Warum wähle ich dann ein OS, welches für mich nicht passt und erwarte dann vom Hersteller dieses OS, dass er es nach meinen Wünschen anpasst? Nur mal so ein Hinweis. In München gab es mal so etwas. Ein OS, welches man jederzeit an die Wünsche hätte anpassen können.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>tandel</userName>
+        <commentDate>2018-03-25T09:01:09</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094678</commentId>
+        <commentBody>
+          <comment>Ach, Microsoft hat durchaus Interesse, weiter unangefochtener Marktführer zu sein. Man wird die Vor- und Nachteile abwägen und dann entscheiden.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>P1750</userName>
+        <commentDate>2018-03-25T09:20:27</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094728</commentId>
+        <commentBody>
+          <comment>Weil jeder Webseiten-Betreiber - im Idealfall - Klimmzüge zur Datensparsamkeit unternehmen muss. Das macht allerdings keinen Sinn, wenn durch das Betriebssystem längst viel ausgefeiltere Daten übermittelt wurden. Und nein, MS muss diese Daten auch nicht zwangsläufig haben wollen, es kann darum bitten, dass einige Benutzer (warum auch immer) ihnen all diese Informationen freiwillig (Opt-In) zur Verfügung stellen, dann wäre vermutlich "alles gut".</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>o_sh</userName>
+        <commentDate>2018-03-25T09:38:56</commentDate>
+        <commentTitle>Genau. "Microsoft muss..." - sonst ... was?</commentTitle>
+        <commentId>posting_32094799</commentId>
+        <commentBody>
+          <comment>Wenn man sich von einem Anbieter abhängig gemacht hat, dann kann man nur schlecht Forderungen stellen, vor allem nicht alleine als Datenschutzbeauftragter eines Bundeslandes. Am Ende dieses Konfliktes wird eine wachsweiche Sonderregelung für Microsoft stehen, das ist doch jetzt schon abzusehen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>blckguard</userName>
+        <commentDate>2018-03-25T10:27:08</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094970</commentId>
+        <commentBody>
+          <comment>Warum MS das tun sollte? Weil sie ihr System weiter verbreiten möchten. Wenn die EU z.B. auf die Idee kommt, den Einsatz in Behörden und Betrieben, im Extremfall sogar für Privatanwender, zu verbieten, weil es Datenschutzrechlich nicht zu halten ist, dann wird MS aber springen. Das Problem ist auch nicht, dass es die entsprechenden Handhabungen noch nicht gäbe. Nein, die gibt es, aber sie werden nicht konsequent durchgesetzt.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>reichhart</userName>
+        <commentDate>2018-03-25T08:36:31</commentDate>
+        <commentTitle>"dass möglichst wenig übertragen wird"</commentTitle>
+        <commentId>posting_32094593</commentId>
+        <commentBody>
+          <comment>"möglichst wenig"? Nichts! Geht's noch? *kopfschüttel* Wenn z.B. bei Linux beispielsweise Abfragen bei Paket-Repository gemacht werden, so lassen sich diese einfach abschalten. Zur Not gibt es hier auch den QUELLTEXT. Aber unsere (MS-) Polithansel vergessen leider zu gerne, dass sie die Verantwortung für die Daten der Bürger haben.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Anguel</userName>
+        <commentDate>2018-03-25T08:06:25</commentDate>
+        <commentTitle>MS ist so dreist...</commentTitle>
+        <commentId>posting_32094505</commentId>
+        <commentBody>
+          <comment>... dass die sogar mit DSGVO Werbung machen, z.B. auf Facebook.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>TilesLover</userName>
+        <commentDate>2018-03-25T10:00:59</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094869</commentId>
+        <commentBody>
+          <comment>Und was ist daran dreist?</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>KritikMussSein</userName>
+        <commentDate>2018-03-25T10:29:08</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094980</commentId>
+        <commentBody>
+          <quote>Und was ist daran dreist?</quote>
+          <comment>Und was ist daran dreist? Das ist, als würden Verbrennungsmotorenhersteller mit einer sauberen Umwelt werben. Einfach dreist.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>allesnurgut</userName>
+        <commentDate>2018-03-25T07:02:19</commentDate>
+        <commentTitle>Wer den Beelzebub zum Essen einlädt</commentTitle>
+        <commentId>posting_32094367</commentId>
+        <commentBody>
+          <comment>Soll sich nicht wundern wenn er frisst wie der Teufel. Die ganze Basis der IT Industrie gehört als Infrastruktur verstaatlicht. Betriebssysteme, Suchmaschinen, Verkaufsplattformen, Cloud-Dienste etc bilden dann die Basis für ein digitales Dasein. Die Gelddruckerei für so etwas muss beendet werden.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>P1750</userName>
+        <commentDate>2018-03-25T09:23:42</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094740</commentId>
+        <commentBody>
+          <quote>... Infrastruktur verstaatlicht ..</quote>
+          <comment>... Infrastruktur verstaatlicht .. Um Gottes Willen!</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>ricciscalar</userName>
+        <commentDate>2018-03-25T06:45:17</commentDate>
+        <commentTitle>Unsere Politik ist gerade in den höchsten Ämtern durch und durch korrupt</commentTitle>
+        <commentId>posting_32094341</commentId>
+        <commentBody>
+          <comment>Die Verbindung zwischen Microsoft und der Polit-Elite geht weit über Transatlantiker Gesprächskreise hinaus. Ganz vorne mit dabei sind unsere vollkommen ausser Kontrolle agierenden Geheimdienste. Merkel sieht hier vor allem, dass dies alternativlos ist. Daher lasst sie diese Scheiße verwenden und regt euch nicht auf. So lange unsere Politiker nach der Pfeife der USA tanzen, haben sie nicht zu befürchten, dass die USA kompromittierende Informationen durchstechen. Sollten sie sich aber gegen die Informationsbeschaffung durch Microsoft wenden, wird sie der Bann treffen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>HerrMeLin</userName>
+        <commentDate>2018-03-25T06:00:16</commentDate>
+        <commentTitle>Windows 10 selbst "entschlacken"</commentTitle>
+        <commentId>posting_32094260</commentId>
+        <commentBody>
+          <comment>Da ich gelegentlich Windows zum Spielen starte, habe ich folgende "harte" Methode gewählt (auch weil mir das ganze Gewurstel mit den Gruppenrichtlinien zuviel ist): - ClassicShell installiert - Linux gestartet - Windows gemountet und den Ordner "C:\Windows\SystemApps\" in "...\SystemApps.bak\" umbenannt - Windows gestartet -&gt; läuft Ohne Apps, ohne Cortana, ohne Edge, und der ganze andere Scheiß wird auch nicht mehr installiert! Wesentlich weniger Netzwerkverkehr. Updates funktionieren weiterhin.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>bschl</userName>
+        <commentDate>2018-03-24T22:51:43</commentDate>
+        <commentTitle>So ein Bullshit</commentTitle>
+        <commentId>posting_32093909</commentId>
+        <commentBody>
+          <comment>Warum soll W10 erst jetzt nicht mehr OK sein? Die DSGVO wird nicht erst jetzt gültig - bis jetzt galten nur Übergangsfristen. Und: Einen Datenschutz hatten wir in der BRD schon VOR der DSGVO ... und daran hat sich MS damals bis heute nicht gehalten. Also ob das nun alles so neu oder anders wäre ... Erschreckend finde ich nur, dass sich bis jetzt kein Schwein aus der Politik etc dafür interessiert hat. Oder gab es da schon immer irgendwelche "Vereinbarungen"? Unsere lieben Politiger, die "Unheil vom Volke abwenden" wollen, sollte man man alle vor den Kahdi ziehen und mal fragen was sie denn bislag getan haben!</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>commander-keen</userName>
+        <commentDate>2018-03-25T07:55:34</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094475</commentId>
+        <commentBody>
+          <comment>Früher war das noch anders. Vor Windows 10 (zumindest bis Win7) war ein Windows vollpreispflichtig und durchaus noch zum Schweigen zu bringen. Nun ist das FinanzierungsModell ein anderes.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>P1750</userName>
+        <commentDate>2018-03-25T09:27:51</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094759</commentId>
+        <commentBody>
+          <comment>MS ist ein zu großer Gegner, man bringt lieber erst einmal ein paar KMUs zur Strecke, weniger Aufwand - schnellerer ROI, perverse Logik seit es KMUs gibt.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>o_sh</userName>
+        <commentDate>2018-03-25T09:30:21</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094773</commentId>
+        <commentBody>
+          <comment>Wieso Bullshit? Für die meisten Behörden liegt der Umstieg auf Windows 10 noch in der Zukunft, und Windows 7 war nicht so gesprächig. Und die DSGVO legt in der Tat nochmal ne Schippe drauf, zum Beispiel mit der Forderung nach "privacy by design", gegen die Windows 10 verstößt. Wie soll ein Unternehmen nachweisen, dass die persönlichen Daten seiner Kunden geschützt sind, wenn die Rechner, auf denen sie verarbeitet werden, regelmäßig verschlüsselte Datenpakete in die USA senden? Das ist völlig unmöglich.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>salametti</userName>
+        <commentDate>2018-03-24T21:32:21</commentDate>
+        <commentTitle>Webanwendungen</commentTitle>
+        <commentId>posting_32093722</commentId>
+        <commentBody>
+          <comment>- Sind erstens unabhängig von der Plattform (wenn richtig gemacht) - Ersparen den ganzen Paketierungskram Es kann doch nicht sein, daß 2018 immer noch paketiert werden muß! Auch Terminalserver sind einfach Umgehungslösungen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>maikg</userName>
+        <commentDate>2018-03-25T10:09:32</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094905</commentId>
+        <commentBody>
+          <comment>Vielleicht könnte man ja auch mit Docker und Window XP noch was erreichen. Ok, Windows XP ist tot, aber für Legacy-Anwendung und beschränktem Zugriff auf das Netzwerk sollte es doch möglich sein, da was zu machen. Hat auch noch den Vorteil, das man nur ein Basis-Image für alle Anwendungen pflegen muss, jede Legacy-Anwendung nimmt das Basis-Image und reichert es ggf. um weitere Libraries an. Umstellungsaufwand erstmal nur das Basis-Image bis man eine adäquate Lösung (Portierung, Neuschreiben der Anwendung) gefunden hat. Leider scheinen die Anwender in Behörden damit nicht klar kommen zu wollen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Brennnesseltee</userName>
+        <commentDate>2018-03-25T10:28:59</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094979</commentId>
+        <commentBody>
+          <comment>Sehe ich genauso Habe dieses Jahr z.B. festgestellt, dass ich meine Steuerklärung bei ELSTER auch online erledigen kann, ohne das Tool herunterladen zu müssen. Finde ich klasse! Darf ruhig mehr davon geben.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>ttipgeilerG.</userName>
+        <commentDate>2018-03-24T21:01:56</commentDate>
+        <commentTitle>Es gibt bereits ein Windows10, das den Anforderungen der Datenschützer genügen</commentTitle>
+        <commentId>posting_32093647</commentId>
+        <commentBody>
+          <comment>könnte, Windows 10 Lite (aktuell v6), siehe z.B. https://windows-torrent-download.com/windows-10-lite-edition-v6-x64-2018/ Da wurde fast die Hälfte des üblichen Windows10-Isos herausoperiert, Telemetrie, Bloatware, Apps&amp;Co wurden entfernt oder zumindest deaktiviert, und es läuft immer noch bombenstabil. Und es ist mindestens genauso vertrauenswürdig wie das Original WC äh W10. Und damit ihr jetzt nicht denkt, das käme aus so einer schmuddeligen Hinterhof-Warez-Schmiede, nein, da stehen echte Enthusiasten dahinter, einer der Macher war früher auf github, jetzt auf wordpress: https://chefkochblog.wordpress.com/ Die Liste bezogen auf eine frühere Lite-Version auf https://gist.github.com/CHEF-KOCH/46c50cedb751a43b04d1f06a5a1b6265 ist einfach nur noch geil, da sieht man, wie Windows 10 wieder Spaß machen könnte, raus mit dem Bloat, alles was keine Miete zahlt, fliegt. Ende des leistungslosen Rumgammelns und Datenabschnorchelns für diese ganzen Penneräpps. Diese "Fallstudie" zeigt mMn sehr deutlich, daß ein spywarefreies Windows 10 einfachst machbar ist, muss man halt auf Cortana, Edge&amp;Co verzichten, aber das geht schon, nach ein paar Tagen ohne vermisst man diesen Mist nicht mehr.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>0xCODE</userName>
+        <commentDate>2018-03-25T02:38:46</commentDate>
+        <commentTitle>rofl</commentTitle>
+        <commentId>posting_32094136</commentId>
+        <commentBody>
+          <comment>....</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>0xCODE</userName>
+        <commentDate>2018-03-25T02:42:04</commentDate>
+        <commentTitle>rofl</commentTitle>
+        <commentId>posting_32094138</commentId>
+        <commentBody>
+          <comment>Ohne Quellcode ist das völlig wertlos, fahrlässig, ein elendiges Gefrickel, und letztlich eine enorme Verschwendung von Energie. Aber spricht nur wieder dafür, dass die Dummheit der Menschen grenzenlos ist. Nebenbei ist auch absolut nicht sichergestellt, dass hier keine Schädlinge existieren. Und anstatt etwas wie GNU/Linux zu nutzen, was frei, bedeutend sicherer, und dem Datenschutz in enormem Maße zuträglich ist, wird in Unmengen Energie aufgewendet, etwas zu verändern, was von Natur aus schon gegen die eigenen Interessen arbeitet. Würde man hier nur einen kleinen Teil dieser Energie, in GNU/Linux stecken, dann könnte man unfassbar viel erreichen, mit spürbarem Effekt. Aber manche Menschen verschwenden offenbar gerne ihre Zeit, und unterliegen noch der Illusion etwas Sinnvolles geleistet zu haben, wenn sie an einem Betriebssystem herumfrickeln was nur eigenen Interessen folgt. Ein Windows 10 verbiegen zu wollen, hat nichts mit Vernunft, noch mit intelligentem Verhalten zutun. Zumal man von Anfang an weiß, dass man hier nur ein beschränktes Nutzungsrecht hat. Und all das oftmals nur dem Glauben nach, wegen vermeintlich unersetzbarer Software, weshalb man sich in derart unsinniger Weise zu solchen Verhaltensweisen hinreißen lässt. Aber sich schlicht radikal davon zu trennen, oder es ggf. auch in eine VM ohne Netzwerk zu verbannen, wenn es schon eigenen Interessen zuwider läuft, wird nur selten in Erwägung gezogen. Stattdessen leidet man lieber, und arrangiert sich in stupider Weise damit. Manche würden sich wundern, wie ersetzbar das Windows-Ökosystem eigentlich ist, und Barrieren für Veränderungen oftmals nur im Kopf existieren.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>HerrMeLin</userName>
+        <commentDate>2018-03-25T05:58:55</commentDate>
+        <commentTitle>Re: Es gibt bereits ein Windows10, das den Anforderungen der Datenschützer genüg</commentTitle>
+        <commentId>posting_32094257</commentId>
+        <commentBody>
+          <comment>ttipgeilerG. schrieb am 24.03.2018 22:01: könnte, Windows 10 Lite (aktuell v6), siehe z.B. https://windows-torrent-download.com/windows-10-lite-edition-v6-x64-2018/ Da wurde fast die Hälfte des üblichen Windows10-Isos herausoperiert, Telemetrie, Bloatware, Apps&amp;Co wurden entfernt oder zumindest deaktiviert, und es läuft immer noch bombenstabil. Und es ist mindestens genauso vertrauenswürdig wie das Original WC äh W10. Und damit ihr jetzt nicht denkt, das käme aus so einer schmuddeligen Hinterhof-Warez-Schmiede, nein, da stehen echte Enthusiasten dahinter, einer der Macher war früher auf github, jetzt auf wordpress: https://chefkochblog.wordpress.com/ Die Liste bezogen auf eine frühere Lite-Version auf https://gist.github.com/CHEF-KOCH/46c50cedb751a43b04d1f06a5a1b6265 ist einfach nur noch geil, da sieht man, wie Windows 10 wieder Spaß machen könnte, raus mit dem Bloat, alles was keine Miete zahlt, fliegt. Ende des leistungslosen Rumgammelns und Datenabschnorchelns für diese ganzen Penneräpps. Diese "Fallstudie" zeigt mMn sehr deutlich, daß ein spywarefreies Windows 10 einfachst machbar ist, muss man halt auf Cortana, Edge&amp;Co verzichten, aber das geht schon, nach ein paar Tagen ohne vermisst man diesen Mist nicht mehr. Windows 10 kann man auch selbst ganz einfach "entschlacken": Da ich gelegentlich Windows zum Spielen starte, habe ich folgende "harte" Methode gewählt (auch weil mir das ganze Gewurstel mit den Gruppenrichtlinien zuviel ist): - ClassicShell installiert - Linux gestartet - Windows gemountet und den Ordner "C:\Windows\SystemApps\" in "...\SystemApps.bak\" umbenannt - Windows gestartet -&gt; läuft Ohne Apps, ohne Cortana, ohne Edge, und der ganze andere Scheiß wird auch nicht mehr installiert! Wesentlich weniger Netzwerkverkehr. Updates funktionieren weiterhin.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>ttipgeilerG.</userName>
+        <commentDate>2018-03-25T09:13:00</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094707</commentId>
+        <commentBody>
+          <comment>0xCODE schrieb am 25.03.2018 04:42: Und anstatt etwas wie GNU/Linux zu nutzen, was frei, bedeutend sicherer, und dem Datenschutz in enormem Maße zuträglich ist, wird in Unmengen Energie aufgewendet, etwas zu verändern, was von Natur aus schon gegen die eigenen Interessen arbeitet. Ich versteh dich ja irgendwo, aber du muss halt auch die Masse der Menschen verstehen, die haben alle ein paar Lieblingsanwendungen, die nicht einfach unter Linux ersetzt werden können oder nicht unter wine laufen, speziell Hardware, USB-devices, die Treiber benötigen, etc. Persönlich bleibe ich auf meinen Rechnern solange wie möglich auf Windows7, parallel läuft opensuse Tumbleweed oder Leap, mein einziges privates Windows10 ist nur zum Testen, Entwicklen und Spielen nötig, und ab 2020 wird es wohl ganz auf opensuse oder ReactOS hinauslaufen. Schon klar, ReactOS ist für die Opensource-Befürworter die nächste Katastrophe, weil das halt die Leute weiter bei den Windows-Anwendungen halten wird, wenn es mal als vollständiges Windows7-Substitut ausgereift sein wird, davon ist es heute leider noch meilenweit entfernt. Aber ich liebe halt mein kuschliges Windows7, das ist so richtig schön auf schlank und classic getrimmt, das möchte ich nicht hergeben, Gnome/KDE ist für mich kein echter Ersatz, und mein Lieblingsansatz LXQt ist noch nicht vollständig genug. Richtig hart wird es halt bei neuer Hardware, Windows 7 lässt sich mit Hacks und von W10 geborgten Treibern zwar auch auf Coffee Lake installieren, aber wirklich schön ist das nicht, die intel-GPU-Treiber haben mittlerweile einen eingebauten Check gegen Windows7, MS will die Leute unbedingt auf Windows10 as a Service/Cloud prügeln. Klammheimlich hoffe ich ja, daß es ab 2020 noch ein paar Jahre einen Windows7-PosReady-Hack (wie bei XP) geben wird. Sorry, ich weiß, daß das den Opensource-Leuten regelrecht weh tut, aber so denken eben viele, Windows 7 ist schön eingerichtet und bequem, da will man halt dabeibleiben. Wenn MS nicht so bescheuert datenclou(d)geil wäre, könnten sie die Leute ewig an sich binden, aber so ab 2020 und mit weiteren Verschlimmbesserungen in W10 werden sie wohl zusätzlich einige zig Millionen Leute weltweit in Richtung Linux oder ReactOS treiben.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>ttipgeilerG.</userName>
+        <commentDate>2018-03-24T20:07:46</commentDate>
+        <commentTitle>Es ist ja nicht nur das Betrübssystem W10, auch die Anwendungen</commentTitle>
+        <commentId>posting_32093493</commentId>
+        <commentBody>
+          <comment>z.B. Edge, Cortana, die neueren Offices telefonieren nachhause wie die Weltmeister. Und die Anwendungen sind hartnäckig mit Windows 10 verzahnt, Cortana z.B. lässt sich nur mit einem Spezial-Skript deinstallieren, sauber und nachhaltig ist das nicht, nach dem nächsten Feature-Update muss man das wiederholen. Im Endeffekt wird bald jeder Tastendruck nachhause geschickt, zumindest in der Standardeinstellung, da kann sich MS dann die Inhalte schön rekonstruieren. Gehört alles verboten, erst nach ausdrücklichem Opt-In, und das am besten für jede Übertragung einzeln, sollten Daten rausgehen. Jedem kleinen Programmierer hätte man vor ein paar Jahren Spyware vorgeworfen, wenn er sich so wie MS, Google&amp;Co verhalten hätte. Aber mit Android, Äääpps, Cloud&amp;Co werden die Nutzer eben langsam auf die Übertragung-ist-alternativlos-Schiene geschoben, bald sind nur noch Daten- und Privacy-Nazis gegen die Cloud.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Sucher von Dienst</userName>
+        <commentDate>2018-03-24T19:29:32</commentDate>
+        <commentTitle>"Gefühlte Abhängigkeit"</commentTitle>
+        <commentId>posting_32093373</commentId>
+        <commentBody>
+          <comment>Hallo alle, seine Anmerkung einer "gefühlten Abhängigkeit" dürfte die Gesamtsituation am besten beschreiben. Natürlich gibt es in Firmen Programme, die z. B. nur mit einem uralten IE laufen. Aber München zeigt, dass es anders gehen kann, wenn nicht Lobbyismus an Dummheit und Gier der Menschen appeliert. Mit freundlichen Sucher</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>ekkhki3d</userName>
+        <commentDate>2018-03-24T18:23:05</commentDate>
+        <commentTitle>Wenn ein neues Automodell die Typprüfung nicht besteht...</commentTitle>
+        <commentId>posting_32093092</commentId>
+        <commentBody>
+          <comment>...dann wird es für den Straßenverkehr nicht zugelassen - so einfach ist das. Da bittet keiner um Nachbesserung, das Ding darf dann nicht in den Handel und auch nicht fahren. Der Hersteller bessert aus Eigeninteresse nach bis die Typprüfung bestanden ist. Warum soll das bei Windows-Software anders sein - weil die Unternehmen und Behörden sich abhängig fühlen davon. Sie können nicht weit genug über den Tellerrand schauen, bzw. sind nicht flexibel genug sich andere Systeme anzuschauen. Es gibt durchaus Linux und Mac die nicht unkontrolliert nachhause telefonieren. Eine Bitte/Aufforderung an Microsoft ist nicht nötig, einfach eine Alternative nutzen reicht...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>racor05</userName>
+        <commentDate>2018-03-24T18:26:58</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093107</commentId>
+        <commentBody>
+          <comment>ekkhki3d schrieb am 24.03.2018 19:23: Eine Bitte/Aufforderung an Microsoft ist nicht nötig, einfach eine Alternative nutzen reicht... Dir ist schon bewußt, dass die "Bitte" eines Datenschützers eine Vorstufe zu einer Klage ist?</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>???888</userName>
+        <commentDate>2018-03-24T19:43:31</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093418</commentId>
+        <commentBody>
+          <comment>Weil es nicht mehrere Tausend Betriebssysteme und Bürosoftwares gibt, wie bei den Autos. MacOS ist an spezifische unflexible Hardware gebunden und Linux erfordert zum Teil große Anpassungen, gerade was Treiber betrifft. Andere Betriebssysteme sind derart bedeutungslos, daß es kaum einen ernstzunehmenden Anbieter gibt, der sie vertreibt und betreut.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Mikn_</userName>
+        <commentDate>2018-03-25T06:05:08</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094269</commentId>
+        <commentBody>
+          <comment>Wenn also dein Auto einem OS entsprechen sollte, dann stellen wir fest das die Auto einigermaßen kompatibel sind. Autos für Rechtsverkehr, haben 4 Räder, das Lenkrad links, Die Pedale sind wie folgt von links nach recht angeordnet: Kupplung (bei altmodischen Schaltgetrieben ), Bremse, Gas. Bei der Schaltung bin ich mir nicht ganz sicher, fahre schon zu lange Automatik. Selbst bei Elektroautos wird diese Bedienung nicht auf den Kopf gestellt. Jedoch beim Zubehör wie einbaubare Navisysteme, Radioblenden, etc. treiben die Autohersteller ein Spiel, wie die OS-Hersteller. Das Zubehör entspricht somit der Anwendungssoftware, wobei natürlich in der SW-Welt die Wichtigkeit eher umgekehrt ist. Dort entscheidet primär die Anwendungssoftware welche Umgebungen genutzt werden können. Zudem gibt es kein Oligopol in der Autoproduktion. In der OS-Welt wäre auch die Anordnung der Pedale, des Lenkrads, etc. patentiert worden und man würde keinen anderen Hersteller erlauben, sein Fahrzeug so zu bauen. Eine Kommune braucht im Regelfall eine ganze Reihe von Verfahren. Je nach Stellung, also Gemeinde, Stadt oder gar Kreisstadt, Bezirkregierung, etc. in sehr unterschiedlicher Ausprägung. Alle brauchen ein Haushaltsplanungs- und Buchungssystem. Ein kreisfreie Stadt mit ca. 100.000 Einwohnern kommt hier auf gute 3-5 Millionen Buchungen pro Jahr. Die Haushaltsrechtlichen Anforderungen können nur spezial angepasste bzw. neu erstellte ERP-Systeme leisten. Auch dürfte es nicht viele Verfahren geben, die so ein Transaktionsvolumen bewältigen können. Am Markt in D. gibt es vielleicht noch 4-5 Hersteller. Für die zuvor beschriebene Größenordnung 2, mit Glück 3. Btw in Deutschland gibt es 16 verschiedene kommunale Gesetze die beschreiben, wie eine kommunale Einrichtung zu buchen hat, 16 verschiedene Haushaltsgesetze für die Landesebene und dann natürlich noch 1 für die Bundesebene. Die haben sicherlich Überschneidung, aber halt sehr spezielle Unterschiede. Somt muss ein Anbieter der Bundesweit seine SW betreibt, sehr viel ermöglichen. Diesen Komfort zahlt halt dann eine Kommune in Hessen mit, so dass die SW in 15 anderen Bundesländern auch funktionieren würde. Hat dann eine Kommune Eigenbetriebe in allgemeinen Rechtsformen (GmbH, AG) dann kommt natürlich noch das HGB und vermehrt das Steuerrecht hinzu. Folgende Dinge werden noch benötigt: Verfahren zu Veranlagung und Berechnung der Steuern; Grund-, Gewerbe-, Hundesteuer werden sehr unterschiedlich erhoben. Jede Kommune kann eigene Satzung erlassen, so dass diese Verfahren sehr hochgradig konfigurierbar sein müssen. Bei den Verbrauchsabgaben (Abwasser, Frischwasser, Müllabfuhr) sieht es ebenfalls sehr komplex aus. Meldeverfahren Standesregister Ordnungswidrigkeitenverfahren Kampfhundekataster Waffenregister Kindergartenverwaltung Schulverwaltung VHS-Verwaltung Verkehrssteuerungssysteme Jugendhilfe Sozialhilfe SW für die Feuerwehr / Leitstellen Grundstücksregister Gebäude- und Liegenschaftsmanagement. Hier ist der Einführungsdruck dank gesetzlicher Vorgabe für die Abdeckung der Betreiberverantwortung sehr hoch. Gute Lobbyarbeit! Friedhofsverwaltung usw. Jede Dienstleistung in einer Kommune (sind ja ca. 90-120 in der Grobgliederung) erfordert min. eine Spezialsoftware. Größere Ämter haben auch schnell 3-4 Verfahren in der Nutzung). Alle benötigen Schnittstellen untereinander, müssen mittlerweile nach BSI-Standards analysiert werden, unterliegen den Datenschutzanforderungen etc. Was bedeutet das diese ganzen Anforderungen einen "rechtlichen" Overhead produzieren, da ja jeder Hersteller das Rad neu erfinden (muss). Das muss x-fach bezahlt werden. Ein behördliches OS könnte aber viele Verwaltungsdingen halt noch im OS implementieren bzw. einen Layer zwischen OS- und Fachanwendung einziehen. Auf diesem Layer könnte dann auch das Management von Datenaustausch im Rahmen der rechtlichen Regelungen stattfinden (also Meldedaten, Buchungsdaten und Prüfung ob Haushaltsmittel noch zur Verfügung stehen, usw.) Wie ist das Entstanden? Eine wirtschaftsfreundliche Politik hat durchgesetzt, dass die kommunale Welt nicht mehr selbst die Programme schreiben darf, sondern sich am Markt bedient werden muss. Mittlerweile kann die Wirtschaft auch klagen. Grund: Wird Software mit öffentlichen Geldern im Rechenzentrum programmiert und in den Markt gedrückt. liegt mit hoher Wahrscheinlichkeit eine Wettbewerbsverzerrung vor. Das ist nach EU-Recht schnell illegal. Durch den Wettbewerb, so versprach man den Volk, wird man von sinkenden Preisen profitieren. Es gibt aber keinen funktionierenden Wettbewerb in vielen Bereichen. Die Spezialanforderungen sind so hoch, dass überall Oligopole bis Monopole entstanden sind. Und alle Anbieter programmieren fast ausschließlich unter Windows. Nur diese Wettbewerbsstörung hat bis dato keinen Regulierung nach sich gezogen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Crystal</userName>
+        <commentDate>2018-03-24T18:06:48</commentDate>
+        <commentTitle>Die DSGVO ist Protektionismus</commentTitle>
+        <commentId>posting_32093025</commentId>
+        <commentBody>
+          <comment>EU-ansässige Lobbyunternehmen sorgen im Normalfall dafür, dass die EU Gesetzgebung wenig verbraucherfreundlich ist, selbst wenn der ursprüngliche Vorschlag es noch war. Da gibt unsere Autoindustrie und unsere Chemie die Grenzwerte vor usw. Aber ausgerechnet beim Datenschutz übernimmt die EU in weiten Zügen das strenge deutsche Datenschutzrecht. Und weder Google noch Facebook noch Microsoft haben es geschafft, die Gesetzesgeber umzustimmen. Das sollte zu denken geben. -- Crystal</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>TroyMcLure</userName>
+        <commentDate>2018-03-25T04:15:29</commentDate>
+        <commentTitle>Die DSGVO ist Grundrecht!</commentTitle>
+        <commentId>posting_32094187</commentId>
+        <commentBody>
+          <comment>Es gibt technisch keinen plausiblen Grund warum ein Betriebsystem für den Alltagseinsatz mein gesamtes Nutzerverhalten analysiert und an den Hersteller zurück sendet. Hier muss mein interesse an Privatsphäre den kommerziellen eines Softwareanbieters überwiegen!</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Mikn_</userName>
+        <commentDate>2018-03-24T18:06:40</commentDate>
+        <commentTitle>Was sagt denn die Spionageabwehr vom BND dazu?</commentTitle>
+        <commentId>posting_32093023</commentId>
+        <commentBody>
+          <comment>Es ist schließlich die genaue Aufgabe dieser Behörde, entsprechende Maßnahmen gegen Spionage zu ergreifen. Dazu kann es auch gehören, entsprechende Mitarbeiter in den SW-Konzernen anzuwerben oder einzuschleusen. Zudem hoffe ich, dass wenn diese Kommunikationen erkannt wurden, auch die ausgetauschten Datenpakete gesichert werden. Es ist ja nicht ausgeschlossen, dass diese in 3-8 Jahren problemloser entschlüsselt werden können. Bleibt noch die wichtige Frage, was passiert eigentlich, wenn der Datenaustausch unterbrochen wird? Und kann man die auftretenden Nachteile durch andere Lösungen ausgleichen? Wenn dann so ein Aufwand für den sicheren Betrieb gefahren wird, muss der Bürger auch fragen, ob nun an neuen EU-Nationalen Lösungen gearbeitet wird? Es ist ja nahezu lachhaft, dass die EU hier keine Lösungen finanziert bekommt. Und selbst das "Windows"-Kompatibel sollte sich lösen lassen. Das Quasi-Monopol sollte genügend Hebel im Wettbewerbsrecht finden und falls nicht sollte der Politik klar sein, was die Aufgabe ist. Wenn das "Behörden-OS" oder "EU-OS" verfügbar ist, müssen auch die Anbieter von behördlicher Software umschwenken. KO-Kriterium in Ausschreibungen und gesetzliche Übergangspflichten für Bestandssoftware. Bei dieser Gelegenheit auch die Interoperabilität und besonders der Anwendungen gesetzlich verankern. Wobei die Herausforderungen an die Neuentwicklung auf Clientseite gar nicht so hoch seinen dürften, wenn man konsequent auf Browserfähigkeit der Anwendungen setzt. Der Aufwand für die Entwicklung entsprechender Server-OS dürfte dagegen deutlich höher liegen. Neben den OS kommen dann noch entsprechenden Programmierumgebungen hinzu. Es wäre ja kontraproduktiv dort dann Visual Studio einzusetzen Ab der Verfügbarkeit der Programmierumgebungen, können dann auch die Ausschreibungsregeln und die Übergangsfristen geplant werden. Im Notfall kann auch Estland die Entwicklung eines modernen EU-OS vorantreiben. Die haben ja Spaß an Technik und den damit verbundenen Lösungen. Und selbst wenn so ein Projekt mit 10 Milliarden Euro gefördert wird, wäre es gut investiertes Geld. Zumal es auch einheitliche Standard in Sachen EU-DSGVO, e-Government, e-Rechnung und andere Themen, die letztlich überwiegend die Interoperabilität betreffen, gewährleistet sind.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>audio driver</userName>
+        <commentDate>2018-03-24T17:53:22</commentDate>
+        <commentTitle>Irgendwie habe ich Microsoft die ganze Zeit vermisst.</commentTitle>
+        <commentId>posting_32092966</commentId>
+        <commentBody>
+          <comment>wo die Guten doch gerade so viel Bockmist verzapfen. Willkommen im Club?</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>nille02</userName>
+        <commentDate>2018-03-24T17:48:38</commentDate>
+        <commentTitle>Wie furchtbar, was will denn die Datenschutzaufsicht tun?</commentTitle>
+        <commentId>posting_32092938</commentId>
+        <commentBody>
+          <comment>Wollen sie die Luft anhalten und um sich schlagen? Es muss auch Konsequenzen geben und die müssen dem entsprechenden Firmen auch richtig weh tun. Auch darf man solche Verstöße nicht über Jahre hinweg hinauszögern können.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>audio driver</userName>
+        <commentDate>2018-03-24T18:26:47</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093104</commentId>
+        <commentBody>
+          <comment>Transparenz-Offensive! Das Schweizer Messer zum Bändigen widerborstiger US-digital-Allmachts-Disruptanten.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>shandar</userName>
+        <commentDate>2018-03-24T17:27:13</commentDate>
+        <commentTitle>Vielleicht kommen sie ja jetzt dahinter</commentTitle>
+        <commentId>posting_32092838</commentId>
+        <commentBody>
+          <comment>dass man in der öffentlichen Verwaltung aus Datenschutzgründen kein Windows verwenden darf. Schliesslich kommuniziert das ständig unkontrollierbar mit Dritten. Besser spät als gar nicht.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>aneu67</userName>
+        <commentDate>2018-03-24T18:30:30</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093127</commentId>
+        <commentBody>
+          <comment>shandar schrieb am 24.03.2018 18:27: dass man in der öffentlichen Verwaltung aus Datenschutzgründen kein Windows verwenden darf. Schliesslich kommuniziert das ständig unkontrollierbar mit Dritten. Besser spät als gar nicht. Wenn das eine zwingende Folge der Gesetzgebung sein sollte, ist diese EU-Verordnung in 10 min geändert.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>wuesten_fuchs</userName>
+        <commentDate>2018-03-25T06:33:32</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094321</commentId>
+        <commentBody>
+          <comment>Die EU-DSGVO untersagt solche Datenübermittlung nicht. Sie gibt nur vor, wie damit zu verfahren ist. D.h. sie muss dokumentiert sein, also welche Daten wohin übertragen werden. Und wenn personenbezogene Daten betroffen sind, braucht es die Information der Betroffenen etc. Es wäre also möglich, daß Microsoft dokumentiert, was genau übertragen wird und dann ...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>MarkWolf</userName>
+        <commentDate>2018-03-24T16:37:19</commentDate>
+        <commentTitle>Gibt es für IT keine Marktaufsicht?</commentTitle>
+        <commentId>posting_32092621</commentId>
+        <commentBody>
+          <comment>Handelt es sich um Maschinen oder auch Spielzeug und das Zeugs ist nicht mit den regeln der EU konform, dann kann bzw. muss die Marktaufsicht das in Verkehr bringen wirksam untersagen. Sollte es das bezüglich Datenschutz nicht geben, wäre es dringendst von Nöten. Denn, wenn das passiert, wird auch Microsoft ganz schnell handzahm.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Rea List</userName>
+        <commentDate>2018-03-24T16:45:51</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092651</commentId>
+        <commentBody>
+          <comment>MarkWolf schrieb am 24.03.2018 17:37: Handelt es sich um Maschinen oder auch Spielzeug und das Zeugs ist nicht mit den regeln der EU konform, dann kann bzw. muss die Marktaufsicht das in Verkehr bringen wirksam untersagen. Sollte es das bezüglich Datenschutz nicht geben, wäre es dringendst von Nöten. Denn, wenn das passiert, wird auch Microsoft ganz schnell handzahm. Ohne Word und darunter laufendem Windows könnten die doch gar keine Unterlassungserklärung erstellen, und sie ohne Outlook gar nicht verschicken... Und man sieht ja an diversen Beispielen (Unfreiburg, München), dass es faktisch unmöglich ist, sich aus der Microsoftschen Umklammerung zu lösen. Den Hut, durch ein Verbot von Microsoft-Produkten, faktisch die IT landesweit lahmzulegen, will sich verständlicherweise niemand aufsetzen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>MobBot</userName>
+        <commentDate>2018-03-24T17:28:25</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092844</commentId>
+        <commentBody>
+          <comment>MarkWolf schrieb am 24.03.2018 17:37: Handelt es sich um Maschinen oder auch Spielzeug und das Zeugs ist nicht mit den regeln der EU konform, dann kann bzw. muss die Marktaufsicht das in Verkehr bringen wirksam untersagen. Sollte es das bezüglich Datenschutz nicht geben, wäre es dringendst von Nöten. Denn, wenn das passiert, wird auch Microsoft ganz schnell handzahm. Du kennst anscheinend unsere tollen Politiker nicht. http://www.manager-magazin.de/politik/deutschland/joerg-kukies-deutschland-chef-von-goldman-sachs-wechselt-ins-finanzministerium-bmf-a-1198787.html Lächerlicher als diese Asozial Demokraten kann man es wirklich nicht mehr machen. Im Falle der IT, wäre dann für Datenschutz Facebook zuständig. Ich wundere mich immer wieder was die Bevölkerung so hin nimmt.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Agent_9999</userName>
+        <commentDate>2018-03-24T19:55:14</commentDate>
+        <commentTitle>Ich wundere mich immer wieder was die Bevölkerung so hin nimmt.</commentTitle>
+        <commentId>posting_32093451</commentId>
+        <commentBody>
+          <quote>Ich wundere mich immer wieder was die Bevölkerung so hin nimmt.</quote>
+          <comment>Ich wundere mich immer wieder was die Bevölkerung so hin nimmt. thats all folks agent_9999</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName/>
+        <commentDate>2018-03-24T20:47:30</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093609</commentId>
+        <commentBody>
+          <comment>Stimmt! habs grade probiert mit der Unterlassungserklärung Libreoffice, Scribus, Latex... immer kommt nur n leeres Blatt aus dem Drucker. Es geht einfach nicht. Sind schon Füchse die bei Microsoft. Einfach Genial</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>KeyzZ</userName>
+        <commentDate>2018-03-24T16:17:32</commentDate>
+        <commentTitle>Das "Wir", die "Bloatware" und die "Panikfragen" bitte auch.</commentTitle>
+        <commentId>posting_32092531</commentId>
+        <commentBody>
+          <comment>Mit RS4 kommen wieder lustige (Ab-)Hakenfragen, die durch ihre bloße Existenz und fragwürdigen Formulierungen Unsicherheit bei Leuten ohne freien Willen suggerieren sollen, also gegenwärtig gesehen beim Durchschnittsbürger. Für mich liest sich das immer so: - Abwasser durch Microsoft auf Flüssigkeitsgehalt prüfen lassen? Ja klar! - Fußabdrücke auf korrekten Abstand durch Microsoft prüfen lassen? Na logo! Ich verwende seit XP3 http://sphinx-soft.com/download/prerelease/Windows10FirewallControlServer-Setup.exe (Direktlink zur beta) und gut! Dass leider die meisten Digital Natives (gefühlt) dieses äußerst einfach und unkompliziert zu verwendende Tool nicht verstehen ist mir klar, aber ich werde nicht aufgeben einige Aufmerksame zum Mitdenken zu bewegen, denn das muss man anstatt immer gleich wegen Pillepalle oder dem Geschwafel von medialen Illusionskünstlern aufzugeben, weil dies nicht geht und dort was zickt, obwohl man einfach nur die Augen aufmachen muss! Es steht alles da und die Test-Version ist 100% einsetzbar. Ansonsten selber Schuld! ^^ Und ja, es kostet Zeit sich etwas beizubringen! Danch ist es wie Schnürsenkel binden. Da muss mich dann auch keine Pausefunktion pro Schuh fragen, ob ich mir jetzt wirklich die Schuhe zubinden möchte. Ne ok. Heute nicht oder wie oder was? Wir bereiten alles für Sie vor! pfff Nur ihr könnt das für euch. Wenn Microsoft wirklich cool wäre, würden sie eine saubere Version anbieten bzw. es mit einer Hakenfrage während der Installation abklären. Selbst der neue Calculator ist Kacke! Wer sich trotzdem zum Nudisten bei Big Brother machen möchte, darf das später gerne zur Fremdbespaßung selbst einrichten. (was ein netter Widerspruch ist) LG</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Kelran</userName>
+        <commentDate>2018-03-24T18:01:45</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093007</commentId>
+        <commentBody>
+          <comment>Du kannst Windows 10 nicht mehr in einen Zustand versetzen, dass es a) sicher für Deine Daten ist und b) in einer vernetzten Umgebung mit Internet-Zugang verwendet wird. Der Hersteller hat bewiesen, dass er nicht genau spezifizierte Daten auch gegen Deinen Willen von Deinem System an ihn überträgt. Damit ist der Hersteller selbst nicht vertrauenswürdig und jede Schutzmaßnahme Makulatur.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>kopf-schmerz</userName>
+        <commentDate>2018-03-24T16:14:40</commentDate>
+        <commentTitle>Diversifizierung der Staats-IT per EU-DSGVO... Faszinierend.</commentTitle>
+        <commentId>posting_32092516</commentId>
+        <commentBody>
+          <comment>Da hat MS nahezu jeden Versuch, die Staats-, Landes- und Kommunal-IT mit BS und Büro-Anwendungen von mehr als einem Anbieter auszustatten, aufs heftigste torpediert und sich damit regelmäßig durchgesetzt und wenn Druck nicht gereicht hat, haben sie halt Geldkoffer und Politikeranschlussverwendung rüber gereicht (ja, ich meine Euch, Münchener GroKo!) Und jetzt kommt die Diversifizierung der IT per DSGVO... Bin mal gespannt, ob MS, nachdem sie den Chinesen eine eigene Version gebaut haben, die sicher alles nach Hause (in diesem Fall Bejing) telefoniert, der EU auch eine bauen, die gar nichts nach Hause telefoniert... Ob das technisch überhaupt möglich ist, ohne nahezu alles neu zu schreiben? Und was würde es über MS (und Apple, Google, ...) aussagen, wenn deren Philosophie der Regierung entspricht, die gerade "social scoring" einführt statt der EU, die wenigstens die Bürger- und Menschenrechte als Feigenblatt benutzt? Ach ja, schöne neue Welt...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName/>
+        <commentDate>2018-03-24T15:23:07</commentDate>
+        <commentTitle>Die sind ja witzig</commentTitle>
+        <commentId>posting_32092255</commentId>
+        <commentBody>
+          <comment>Kauf heute mal einen PC mit aktueller Hardware/Prozesser. Da läuft kein Windows 7 mehr drauf, bzw. auch wenn es läuft erhält es keine Updates mehr.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>MartinDJR</userName>
+        <commentDate>2018-03-24T15:55:27</commentDate>
+        <commentTitle>Daran sieht man schon ...</commentTitle>
+        <commentId>posting_32092421</commentId>
+        <commentBody>
+          <comment>... wie viel Marktmacht Microsoft inzwischen hat: Die Leute (wie du) kommen gar nicht mehr auf die Idee, dass es noch andere Betriebssystemhersteller geben könnte. Tatsächlich gibt es aber noch mindestens 20 weitere aktuelle Betriebssysteme (siehe https://de.wikipedia.org/wiki/Liste_von_Betriebssystemen), von denen sich sicher mindestens 5 auch für den Büroeinsatz in Verwaltungen eignen würden. Und der Beamte im Text meint, dass es in Wirklichkeit gar keine echte Abhängigkeit von Windows gäbe, sondern es durchaus möglich wäre, z.B. auf Linux, MacOS, Solaris, BSD, ... umzusteigen, wenn Microsoft nicht die Wünsche der Behörden erfüllen will oder kann.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Elektromania</userName>
+        <commentDate>2018-03-24T17:03:10</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092723</commentId>
+        <commentBody>
+          <comment>MartinDJR schrieb am 24.03.2018 16:55: ... wie viel Marktmacht Microsoft inzwischen hat: Das ist wirklich sehr traurig. Liegt v.a. daran, dass diese Scheixe immer vorinstalliert ist und MS den Leuten vorseihert, dass es das beste ist. Und wegen den Games natürlich. Tatsächlich gibt es aber noch mindestens 20 weitere aktuelle Betriebssysteme (siehe https://de.wikipedia.org/wiki/Liste_von_Betriebssystemen), von denen sich sicher Ich denke, MS wird das nicht jucken. Windows ist ja bezahlt. So eine Umstellung zieht sich außerdem hin. Auch MS verklagen kann sich hinziehen. Und wenn, müssen sie wieder nur ein (eingeplantes) Taschengeld bezahlen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName/>
+        <commentDate>2018-03-24T17:33:04</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092870</commentId>
+        <commentBody>
+          <comment>In einer Behörde, so wie auch in anderen Firmen, gehe ich davon aus, dass dort Firewall und Proxy zum Einsatz kommen. Dort kann ich genau kontrollieren was wohin kommunizieren darf. Dank KMS Lizenzierung und WSUS braucht keiner der Behördenrechner mit dem Internet verbunden sein....das nur mal so am Rande. Und um die Frage gleich vorweg zu nehmen, für Mail und Internetbrowser gibt es Terminalserver mit Published Apps...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>RC</userName>
+        <commentDate>2018-03-24T18:17:12</commentDate>
+        <commentTitle>Re: Tatsächlich gibt es aber noch mindestens 20 weitere aktuelle Betriebssysteme</commentTitle>
+        <commentId>posting_32093065</commentId>
+        <commentBody>
+          <comment>Was auch immer unter "aktuelle" zu verstehen ist. Das "Problem" ist, meiner Auffassung nach, weniger das OS, denn die Anwendungen. Da braucht mir jetzt keiner daher kommen und erzählen, ja für Linux gibt es "alles". Ich habe auch Linux im Einsatz und nutze sowohl unter Windows als auch unter Linux Libre Office, habe aber auf dem Linux WINE installiert, weil ich gerne eine SW nutzen möchte, die es für Linux naitive NICHT gibt. Es ist völlig egal welche es ist. DAS ist die Krugs an der ganzen Windows Abhängigkeit. Microsoft war sehr fleißig im Rekrutieren von unzähligen Programmieren, die so viel SW auf dem Markt gebracht haben, dass es extrem schwierig ist, davon weg zu kommen. Ich hab mehrfach versucht mit GIMP das zu machen, was ich unter Windows mit Corel Draw rasch erledigen kann - und habs aufgegeben Es ist mir völlig piepe, wie viele Funktionen GIMP hat. ICH komme damit nicht so einfach klar, wie ich es im laufe der Jahren mit Corel kann. Das dürfte SEHR vielen anderen Benutzer ähnlich gehen. Und ich bin einer, der 1978 in die PC Welt eintrat. Ohne mein angesammeltes Wissen und Erfahrung wäre ich hoffnungslos hilflos - das ist Fakt! Mein Einziger gekaufter PC ist das Notebook. Alle anderen sind selbst gebaute. Für mich ist Linux die einzige Alternative zu Windows, weil man mit Hilfe von WINE eine reele Möglichkeit hat, gewohnte und für einen selber gute SW genauso weiter nutzen zu können. Apple und MS sind, wie die Pest und Cholera. Alex</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Kieferzapfen</userName>
+        <commentDate>2018-03-24T20:53:13</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093625</commentId>
+        <commentBody>
+          <comment>Tobi Wsg schrieb am 24.03.2018 18:33: In einer Behörde, so wie auch in anderen Firmen, gehe ich davon aus, dass dort Firewall und Proxy zum Einsatz kommen. Dort kann ich genau kontrollieren was wohin kommunizieren darf. Im Bundestagsnetz hat man über Monate(!!) zugesehen, wie Daten abflossen und es nicht verhindern können. Nicht weil die Admins dumm gewesen wären übrigens.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>bretzelkatze</userName>
+        <commentDate>2018-03-25T05:22:24</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094215</commentId>
+        <commentBody>
+          <comment>RC schrieb am 24.03.2018 19:17: Ich hab mehrfach versucht mit GIMP das zu machen, was ich unter Windows mit Corel Draw rasch erledigen kann - und habs aufgegeben+o Ich tu mich auch immer so schwer, mit dem Hammer das zu erledigen, was ich früher mit dem Schraubenzieher gemacht hab Corel Draw und GIMP machen grundverschiedene Dinge (Vektor- vs. Pixelgrafik). Wenn du Corel Draw ersetzen willst, nimm Inkscape.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>tandel</userName>
+        <commentDate>2018-03-25T09:30:19</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094771</commentId>
+        <commentBody>
+          <comment>Es gibt (gab?) Corel Draw Photo Paint, war bei den Vobis-PCs in den 90ern dabei. Gimp ist ohne Frage ein sehr schönes Tool, aber es gibt eben andere schöne Tools die manche Dinge besser können, das ist dem ein oder anderen User gerne auch mal Geld wert.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>physics314</userName>
+        <commentDate>2018-03-25T09:53:16</commentDate>
+        <commentTitle>Re: Daran sieht man schon ... ja neh ist klar</commentTitle>
+        <commentId>posting_32094850</commentId>
+        <commentBody>
+          <comment>Es ist nicht das OS, es ist die benötigte Fachanwendung. Also das was Arzt, Architekt, Anwalt oder Steuerkanzlei in seinem Betrieb braucht um effizient zu funktionieren. So und wenn das die Grundlage ist kannst du ja mal versuchen mit einem alternativ OS im Mittelstand zu überleben. Ist ja auch nicht so, das die städtischen Behörden nur Text und Tabelle brauchen, es sind die Spezialanwendungen die angepasst werden müssen. Was vielleicht eine Großstadt noch leisten kann, kann der einzelne Mittelständler eben nicht, der muss das nehmen was seine Fachanwendung braucht.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>buntstift</userName>
+        <commentDate>2018-03-24T15:15:19</commentDate>
+        <commentTitle>Hä? Aber der BayLDA hat doch gesagt alles ok?!</commentTitle>
+        <commentId>posting_32092214</commentId>
+        <commentBody>
+          <comment>https://www.heise.de/newsticker/meldung/Datenschuetzer-Unternehmen-koennen-Windows-10-Enterprise-datenschutzkonform-einsetzen-3835496.html Es werden zwar irgendwelche unbekannte Daten an ein US Unternehmen gesendet, aber die Bayern sagen das ist ok. Wie kann es nun sein dass einer vom Dorf neben dran meint, das wäre nicht mehr ok? Und selbst Windows sagt, es wäre bereit für die DSGVO: "Gleichzeitig versichert Rogers, dass Windows 10 bereits den Anforderungen der Datenschutzgrundverordnung (GDPR/DSGVO) entspricht." https://www.silicon.de/41656073/datenschutz-in-windows-10-microsoft-zieht-positive-bilanz/ /sarcasm Das traurige dabei ist einfach, dass es kein Schwein interessiert und niemand bluten wird. Wer glaubt, M$ werde hier die Strafe bekommen die es verdient, der glaubt auch noch dran dass einer von VW in den Knast muss.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>TheLoneWolf</userName>
+        <commentDate>2018-03-24T15:31:42</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092302</commentId>
+        <commentBody>
+          <comment>buntstift schrieb am 24.03.2018 16:15: Und selbst Windows sagt, es wäre bereit für die DSGVO: "Gleichzeitig versichert Rogers, dass Windows 10 bereits den Anforderungen der Datenschutzgrundverordnung (GDPR/DSGVO) entspricht." https://www.silicon.de/41656073/datenschutz-in-windows-10-microsoft-zieht-positive-bilanz/ Das mag vielleicht sogar stimmen - für die Enterprise Version - aber sicher nicht für die Pro und Home.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>NichtViel</userName>
+        <commentDate>2018-03-24T15:39:10</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092348</commentId>
+        <commentBody>
+          <quote>Und selbst Windows sagt, es wäre bereit für die DSGVO</quote>
+          <comment>Und selbst Windows sagt, es wäre bereit für die DSGVO Warum auch nicht?</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>lila_kuh</userName>
+        <commentDate>2018-03-24T16:10:02</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092487</commentId>
+        <commentBody>
+          <comment>Das mag daran liegen, dass der BayLDA auch in München wohnt...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>buntstift</userName>
+        <commentDate>2018-03-24T16:35:52</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092614</commentId>
+        <commentBody>
+          <comment>Nein, auch nicht für die Enterprise. Man kann es nicht abschalten.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Alvar Freude</userName>
+        <commentDate>2018-03-24T16:57:18</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092697</commentId>
+        <commentBody>
+          <comment>lila_kuh schrieb am 24.03.2018 17:10: Das mag daran liegen, dass der BayLDA auch in München wohnt... Das BayLDA hat seinen Sitz in Ansbach. Ich gehe davon aus, dass Herr Kranig, da er zuvor beim Verwaltungsgericht Ansbach tätig war, auch in Ansbach wohnt und nicht von München aus pendelt – beschwören kann ich das allerdings nicht. Ciao Alvar</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Alvar Freude</userName>
+        <commentDate>2018-03-24T17:02:06</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092717</commentId>
+        <commentBody>
+          <comment>buntstift schrieb am 24.03.2018 16:15: Es werden zwar irgendwelche unbekannte Daten an ein US Unternehmen gesendet, aber die Bayern sagen das ist ok. das ist in der Einfachheit nicht ganz korrekt: &gt; https://www.lda.bayern.de/media/windows_10_report.pdf Außerdem wurde nur Windows 10 Enterprise analysiert. Ciao Alvar</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>buntstift</userName>
+        <commentDate>2018-03-24T17:26:10</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092836</commentId>
+        <commentBody>
+          <comment>Was ist nicht ganz korrekt? Und ja, ich rede ausschliesslich von der Enterprise. Oder denkst du, im Amt die arbeiten mit Home? The result of this investigation is that via Windows Group Policy settings most data traffic can be stopped. With Windows 10 Enterprise, especially Version 1703 Build 15063, many problematic functions regarding data protection regulations can be disabled (e.g. App Store, Smart Screen Filter, OneDrive, and Cortana). However, parts of the Windows Updates and some Telemetry and Security functions still could not be deactivated by us in this investigation via Windows Group Policies.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>lila_kuh</userName>
+        <commentDate>2018-03-24T18:30:58</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093129</commentId>
+        <commentBody>
+          <comment>Die Kontaktadresse, die auf der Webseite angegeben ist, ist allerdings in München. Mir war allerdings auch so, als sei die Behörde in der Provinz Hessen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Alvar Freude</userName>
+        <commentDate>2018-03-24T18:51:02</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093225</commentId>
+        <commentBody>
+          <comment>buntstift schrieb am 24.03.2018 18:26: Was ist nicht ganz korrekt? Es ist nicht korrekt, dass man alles abschalten kann. Hast Du weiter unten ja auch zitiert: „most data“ heist nicht „all data“. Und ja, ich rede ausschliesslich von der Enterprise. Oder denkst du, im Amt die arbeiten mit Home? Nein, wir (ich arbeite beim im Artikel zitierten LfDI BW) arbeiten nicht mit Home, aber auch nicht mit Enterprise, sondern mit der Pro. Das ist nach meinem Kenntnisstand auch anderweitig üblich. Ciao Alvar</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Vitali Tschernobyl</userName>
+        <commentDate>2018-03-24T15:12:17</commentDate>
+        <commentTitle>Witzbehörde</commentTitle>
+        <commentId>posting_32092199</commentId>
+        <commentBody>
+          <comment>Wer es selbst nicht schafft, sein Haus sauber zu halten, hat kein Recht, dies von anderen zu verlangen. Statt bei Microsoft immer wieder aufs Neue als Bittsteller aufzutreten, wäre es besser zu handeln und erst mal die eigene IT auf ein gesünderes Fundament zu stellen. Dann klappt es vielleicht auch wieder mit der eigenen Glaubwürdigkeit.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>RC</userName>
+        <commentDate>2018-03-24T15:08:24</commentDate>
+        <commentTitle>Netter Versuch :-)</commentTitle>
+        <commentId>posting_32092177</commentId>
+        <commentBody>
+          <comment>Der ohne irgendwelche Konsequenzen bleiben dürfte, da M$ sich nicht die Bohne um irgendwelchen "Landes-Datenschutzaufsichten" kümmert. Aber es ist auf jeden Fall eine gute mediale Werbung "Wir machen was" auch wenns weniger als Windblasen ist Alex</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName/>
+        <commentDate>2018-03-24T15:15:01</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092213</commentId>
+        <commentBody>
+          <comment>RC schrieb am 24.03.2018 16:08: Der ohne irgendwelche Konsequenzen bleiben dürfte, da M$ sich nicht die Bohne um irgendwelchen "Landes-Datenschutzaufsichten" kümmert. Aber es ist auf jeden Fall eine gute mediale Werbung "Wir machen was" auch wenns weniger als Windblasen ist Alex Sie werden sich um die DS-GVO/GDPD kümmern müssen - die Strafen bei Verletzung sind erheblich, und die EU hat schon mal gegen Microsoft entschieden ... Die Marktmacht der EU ist da ein erheblicher Faktor um ernst genommen zu werden ...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>TheLoneWolf</userName>
+        <commentDate>2018-03-24T15:26:59</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092275</commentId>
+        <commentBody>
+          <comment>Stefan Eßer schrieb am 24.03.2018 16:15: Sie werden sich um die DS-GVO/GDPD kümmern müssen - die Strafen bei Verletzung sind erheblich, und die EU hat schon mal gegen Microsoft entschieden ... Was gefühlt Jahrzehnte gedauert hat und meines Wissens nur für die bestehenden Windowsversionen galt.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>NichtViel</userName>
+        <commentDate>2018-03-24T15:37:24</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092335</commentId>
+        <commentBody>
+          <quote>Sie werden sich um die DS-GVO/GDPD kümmern müssen …</quote>
+          <comment>Sie werden sich um die DS-GVO/GDPD kümmern müssen … „Sie“ sind (in allen, in dieser Hinsicht vergleichbaren, Fällen) jene, die da die Daten übertragen. Die „großen“ Mitspieler haben doch, davon bin ich überzeugt, längst irgendwo in ihren Vertragstexten stehen, daß die Anwender ihnen aufs Treulichste versichern, daß sie alle über alle benötigten Genehmigungen für entsprechende Datentransporte verfügen. „Im Zweifelsfall“ bist also „Du“ die von Strafe bedrohte Person!</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>MartinDJR</userName>
+        <commentDate>2018-03-24T16:21:46</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092554</commentId>
+        <commentBody>
+          <comment>Microsoft könnte aber auch pokern: In die Produktbeschreibung reinschreiben, dass sich das Betriebssystem nicht für Rechner eignet, auf denen persönliche oder vertrauliche Daten gespeichert sind. Dann hätte nicht Microsoft, sondern die Kunden ein Problem: Indem er Daten auf einem Windows-Rechner speichert, erteilt er dem Betriebssystem quasi den Auftrag, diese Daten öffentlich zugänglich zu machen - ER ist also derjenige, der die Daten illegal an Microsoft weitergibt und nicht Microsoft. Wahrscheinlich müssten in dieser Situation die Kunden von Windows auf ein anderes Betriebssystem umsteigen. Zwei Möglichkeiten wären denkbar, wie so etwas ausgehen kann: - Entweder die Verwaltungen halten sich an Recht und Gesetz und steigen von Windows auf ein anderes Betriebssystem um (z.B. Linux, aber es gibt ja auch noch andere). Das hätte wohl zur Folge, dass Windows nicht mehr das meistgenutzte Desktop-Betriebssystem sein wird und irgendwann einmal denselben Bekanntheitsgrad haben wird wie BeOS, OpenIndiana, Freedows und ähnliche Betriebssysteme. =&gt; Microsoft hätte verloren - und zwar richtig - Oder die Verwaltungen stehen still, weil die Beamten nur mit Windows umgehen können. Die Folge wäre wohl, dass die EU die DSGVO zurücknehmen müsste, weil sonst der Kollaps des Staates droht. =&gt; Microsoft hätte gewonnen</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>MartinDJR</userName>
+        <commentDate>2018-03-24T16:23:15</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092560</commentId>
+        <commentBody>
+          <quote>„Im Zweifelsfall“ bist also „Du“ die von Strafe bedrohte Person!</quote>
+          <comment>„Im Zweifelsfall“ bist also „Du“ die von Strafe bedrohte Person! In diesem Fall: Die Behörde, die illegaler Weise Software einsetzt, die die Daten nicht ausreichend schützt.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Elektromania</userName>
+        <commentDate>2018-03-24T16:52:39</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092679</commentId>
+        <commentBody>
+          <comment>MartinDJR schrieb am 24.03.2018 17:21: Microsoft könnte aber auch pokern: In die Produktbeschreibung reinschreiben, dass sich das Betriebssystem nicht für Rechner eignet, auf denen persönliche oder vertrauliche Daten gespeichert sind. Aber nachträglich? Die Windowse sind doch schon drauf? Das wäre ja wie bei VW Betrug und würde den Einsatz möglicherweise einschränken (man darf nicht mehr in die Stadt fahren -&gt; man darf keine Daten mehr speichern / was ist mit den Daten, die schon drauf sind)</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>NichtViel</userName>
+        <commentDate>2018-03-24T17:32:02</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092863</commentId>
+        <commentBody>
+          <quote>„Im Zweifelsfall“ bist also „Du“ die von Strafe bedrohte Person! In diesem Fall: Die Behörde, die illegaler Weise Software einsetzt, die die Daten nicht ausreichend schützt. „Im Zweifelsfall“ bist also „Du“ die von Strafe bedrohte Person!</quote>
+          <comment>„Im Zweifelsfall“ bist also „Du“ die von Strafe bedrohte Person! In diesem Fall: Die Behörde, die illegaler Weise Software einsetzt, die die Daten nicht ausreichend schützt. Nur der Sicherheit halber — man weiß ja nie, auf welch seltsame Gedanken manche Leute, so „zwei oder drei“ werden ja vermutlich hier vorbei kommen, beim Ansehen von Buchstaben so kommen: das von mir verwendete „Du“ stand schon aus gutem Grund in Anführungszeichen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>MartinDJR</userName>
+        <commentDate>2018-03-24T17:40:47</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092906</commentId>
+        <commentBody>
+          <quote>Aber nachträglich? Die Windowse sind doch schon drauf? Das wäre ja wie bei VW Betrug...</quote>
+          <comment>Aber nachträglich? Die Windowse sind doch schon drauf? Das wäre ja wie bei VW Betrug... Der Vergleich mit den Diesel-Autos ist gut: Wenn demnächst die Diesel-Autos, bei denen sich die Hersteller an die zum Verkaufszeitpunkt gültigen Abgas-Werte gehalten haben (also KEINE Schummel-Software), trotzdem ihre Zulassung verlieren, weil der Gesetzgeber nachträglich die Abgasnormen strenger gemacht haben, ist der Kunde der Dumme und nicht der Verkäufer oder der Hersteller! Grund: Du als Kunde hast genau das geliefert bekommen, was der Hersteller dir versprochen hat und der Hersteller kann auch nichts dafür, dass der Gesetzgeber die Abgasnormen nachträglich hochgesetzt hat. Das wird bei Windows nicht anders sein: Wenn der Kunde (Unternehmen, Behörden ...) in die Bestellung nicht reingeschrieben hat, dass die Software der DSGVO entsprechen muss, wird der Kunde wohl der Dumme sein und nicht Microsoft. Im Endeffekt könnte Microsoft sogar noch Geld für ein kostenpflichtiges Update verlangen - genau so, wie die Autohersteller dir auch einen kostenpflichtigen Umbau anbieten können.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>RC</userName>
+        <commentDate>2018-03-24T18:01:27</commentDate>
+        <commentTitle>Re: Sie werden sich um die DS-GVO/GDPD kümmern müssen ?</commentTitle>
+        <commentId>posting_32093004</commentId>
+        <commentBody>
+          <comment>Microsoft ? ? Drum kümmern? Vielleicht mit einem Besuch im Parlament und das Verteilen von Köfferchen? Was für SW läuft in Brüssel? Linux? Ähm, ich glaube dass es Windows ist Die DS-GVO/GDPD ist nur die Show fürs Volk - nichts weiter. Die Komparsen der EU werde von den selben hundert Familienmitglieder "bezahlt", denen auch M$ gehört und so ziemlich alles an Firmen auf dem Planeten. Alex</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>n_über_k</userName>
+        <commentDate>2018-03-24T15:07:13</commentDate>
+        <commentTitle>Naja, ...</commentTitle>
+        <commentId>posting_32092172</commentId>
+        <commentBody>
+          <comment>... solange die meisten Leute zu faul sind das Betriebssystem zu wechseln, wird MS wenig Zwang verspüren etwas zu ändern. Von daher: Selbst schuld, liebe Leute! Aber jeder wie er gerne mag ...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>TheLoneWolf</userName>
+        <commentDate>2018-03-24T15:24:29</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092259</commentId>
+        <commentBody>
+          <comment>n_über_k schrieb am 24.03.2018 16:07: ... solange die meisten Leute zu faul sind das Betriebssystem zu wechseln, wird MS wenig Zwang verspüren etwas zu ändern. Von daher: Selbst schuld, liebe Leute! Aber jeder wie er gerne mag ... Das mag auf viele zutreffen aber sicher nicht auf alle. Es gibt für Windows 10 EINE Benutzeroberfläche. So besch... die auch ist, ist sie bei allen Varianten dieselbe. Bei Linux? Fehlanzeige. Fast jede Distri kocht sich was den Desktop anbelangt ihre eigene Suppe. Und DAS ist es was wohl so manchen davon abhält zu wechseln.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>JZL240I-U</userName>
+        <commentDate>2018-03-24T16:05:35</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092459</commentId>
+        <commentBody>
+          <comment>TheLoneWolf schrieb am 24.03.2018 16:24: n_über_k schrieb am 24.03.2018 16:07: ... solange die meisten Leute zu faul sind das Betriebssystem zu wechseln, wird MS wenig Zwang verspüren etwas zu ändern. Von daher: Selbst schuld, liebe Leute! Aber jeder wie er gerne mag ... Das mag auf viele zutreffen aber sicher nicht auf alle. Es gibt für Windows 10 EINE Benutzeroberfläche. So besch... die auch ist, ist sie bei allen Varianten dieselbe. Bei Linux? Fehlanzeige. Fast jede Distri kocht sich was den Desktop anbelangt ihre eigene Suppe. Und DAS ist es was wohl so manchen davon abhält zu wechseln. Quark. Otto N. hat mit dem Desktop nix am Hut. Der schreibt Mails, surft, macht selten mal Textverarbeitung und das war's. Der Desktop ist bei der Mehrzahl der Nutzer irrelevant.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName/>
+        <commentDate>2018-03-24T16:37:38</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092622</commentId>
+        <commentBody>
+          <comment>So schwierig ist die Umstellung auch nicht. Beim Ende von XP habe ich einige Rechner in der Familie einfach auf Linux mit KDE umgestellt. Es wurde halt eine neue Oberfläche bemerkt und das "Windows" doch wieder anders aussieht. Gleiche Aussage kam damals auch beim Wechsel auf XP von 95 bzw. 98. Die Anwendungen blieben gleich, da ich schon schon unter XP die Rechner mit Firefox, Thunderbird und OpenOffice bzw. LibreOffice konfiguriert hatte. Und Updates, was ja immer noch als das angeblich große Problem von Linux angesehen wird, laufen diese mittlerweile bei weitem reibungsloser als unter Windows. Seit der Umstellung brauchte ich bei den Linux Maschinen nicht mehr eingreifen. Ich habe persönlich noch eine Maschine mit Windows 7 am laufen, weil eine notwendige Software nicht ohne Probleme unter Wine läuft, aber was da seit knapp 2 Jahren für eine Scheiße von MS verzapft wird, passt mir überhaupt nicht mehr. Ich musste in dieser Zeit 3 mal ein Backup wieder einspielen, weil ein Update Mist gebaut hat und auch nicht korrekt mittels Bordmitteln rückgängig gemacht werden konnte. Etliche Male wurden die Updates auch erst nach dem zweiten oder dritten Versuch korrekt installiert. Und den März Patch haben sie auch wieder still und leise zurück gezogen. Ich habe mich nach meiner "Anstandsfrist" gewundert, warum der Patch nicht mehr angezeigt wurde.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>n_über_k</userName>
+        <commentDate>2018-03-24T18:51:12</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093226</commentId>
+        <commentBody>
+          <comment>TheLoneWolf schrieb am 24.03.2018 16:24: Das mag auf viele zutreffen aber sicher nicht auf alle. Es gibt für Windows 10 EINE Benutzeroberfläche. So besch... die auch ist, ist sie bei allen Varianten dieselbe. Bei Linux? Fehlanzeige. Fast jede Distri kocht sich was den Desktop anbelangt ihre eigene Suppe. Und DAS ist es was wohl so manchen davon abhält zu wechseln. Gott bewahre! Schlimm wäre es, wenn GNU/Linux ebenfalls lediglich eine einzige (oder vielleicht auch zwei) Benutzeroberflächen im Programm hätte. Das was Du jetzt als Problem ansiehst nennt sich Wahlfreiheit. Ich gebe aber zu ... Wahlfreiheit kann eine gewisse anfängliche Arbeit machen und kann den einen oder anderen auch überfordern. Man muss nämlich eventuell gewohnte und von außen (hier MS) vorgegebeneschriebene Pfade verlassen, ausprobieren, selbst nachdenken und selbst entscheiden. Wahrscheinlich ist nicht jeder dazu in der Lage. ABER: wenn Du DIch darauf eingelassen hast, Dir die Arbeit gemacht hast, selbst entschieden hast, dann magst Du diese Freiheit nicht mehr missen ... mehr noch ... diesen ganzen Einheitquark (wie er einem i.d.R. vorgesetzt wird) empfindest Du nur noch als stinkigen Käse. Von daher: Jeder wie er gerne mag. Wer nicht wechselt hat nicht zu meckern.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Rainer-ich</userName>
+        <commentDate>2018-03-24T14:57:32</commentDate>
+        <commentTitle>ab 25. Mai ist Windows 10 nicht legal einsetzbar - ergo abschalten, sonst Knast!</commentTitle>
+        <commentId>posting_32092133</commentId>
+        <commentBody>
+          <comment>Ab 25. Mai greift die Datenschutzverordnung. Dann dürfen keine Daten mehr abfließen, auch nicht in kleinen, verschlüsselten Häppchen, die sich offenbar nicht vermeiden lassen. Ergo ist die Win10-Nutzung mit irgendwelchen privaten Daten, seien es die von Mitarbeitern, Kunden, Bürgern etc., eindeutig verboten. Nun müssen unsere Behörden, Firmen entweder umrüsten auf datenschützende Software oder aber den PC-Betrieb einstellen und eben analog händisch arbeiten. Den Mehraufwand, der sogar noch Arbeitsplähätze(!) schafft, trägt MS aus Gewährleistungsgründen. Ganz einfach weiter so - das geht eben nicht! Das ist ein vorsätzlicher Verstoß und muss entsprechend geahndet werden. (Ich träume gerade...) Bin mal gespannt, wie unsere beste Demokratie, die man für Geld kaufen kann, das Problem leise löst. Ich vermute da irgendwelche großzügigen unbegrenzte Ausnahmeregelungen, die wohl für Behörden, Firmen entsprechend der Rolle der Bedeutung ausgestaltet werden. Unser Münchner Windows-Fan Reiter wie auch alle anderen Verantwortlichen müssen im Falle des weiteren Win10-Betriebes entgegen der DSGVO persönlich haften, nicht nur mit Geld, im Wiederholungsfalle durchaus mit Freiheitsentzug. Rainer</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>MartinDJR</userName>
+        <commentDate>2018-03-24T16:32:45</commentDate>
+        <commentTitle>Re: ab 25. Mai ist Windows 10 nicht legal einsetzbar - ergo abschalten, sonst Kn</commentTitle>
+        <commentId>posting_32092601</commentId>
+        <commentBody>
+          <quote>... trägt MS aus Gewährleistungsgründen. (Ich träume gerade...)</quote>
+          <comment>... trägt MS aus Gewährleistungsgründen. (Ich träume gerade...) Schön geträumt: Die Gewährleistung greift meines Wissens nur, wenn ein Mangel bereits beim Kauf des Produktes vorhanden war: Wenn dein neues Auto einen Tag nach dem Kauf kaputt geht und dir der Händler nachweisen kann, dass der Mangel beim Verkauf noch nicht vorhanden war, hast du Pech gehabt! Zum Kaufzeitpunkt hat sich Windows aber an alle Datenschutzbestimmungen gehalten...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Pickwick81</userName>
+        <commentDate>2018-03-24T16:33:24</commentDate>
+        <commentTitle>Re: ab 25. Mai ist Windows 10 nicht legal einsetzbar - ergo abschalten, sonst Kn</commentTitle>
+        <commentId>posting_32092603</commentId>
+        <commentBody>
+          <comment>Rainer-ich schrieb am 24.03.2018 15:57: Ab 25. Mai greift die Datenschutzverordnung. Dann dürfen keine Daten mehr abfließen, auch nicht in kleinen, verschlüsselten Häppchen, die sich offenbar nicht vermeiden lassen. Auf welchen Paragraphen genau beziehst du dich denn? Wäre nett, wenn du die explizite Stelle mit Quellenangabe zitieren würdest. Sollte ja nicht so schwer sein. Im Artikel steht es übrigens schon anders, wie üblich überseht "ihr" das nur großzügig: "durch entsprechende Grundeinstellungen dafür sorgen, dass möglichst wenig übertragen wird." Diese Aussage kommt von einem Windows- bzw- Ms-kritischen Fachmann und ist nicht irgendwelches unbelegtes Gewäsch in einem Forum. Ergo ist die Win10-Nutzung mit irgendwelchen privaten Daten, seien es die von Mitarbeitern, Kunden, Bürgern etc., eindeutig verboten. Aktuell offenkundig nicht, ab Ende Mai werden wir sehen. Aber die Wahrscheinlichkeit ist groß, dass sich exakt gar nichts ändern wird. Ganz einfach weiter so - das geht eben nicht! Das ist ein vorsätzlicher Verstoß und muss entsprechend geahndet werden. (Ich träume gerade...) Wohl schon die ganze Zeit. Bin mal gespannt, wie unsere beste Demokratie, die man für Geld kaufen kann, das Problem leise löst. Ich vermute da irgendwelche großzügigen unbegrenzte Ausnahmeregelungen, die wohl für Behörden, Firmen entsprechend der Rolle der Bedeutung ausgestaltet werden. Gibt es dafür irgendwelche Indizien, irgendwelche Gesetzesinitiativen auf dem Weg irgendwelche Verwaltungsakte in der Mache? Wäre es nicht naheliegender, dass du einfach nur irrst?</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>ekkhki3d</userName>
+        <commentDate>2018-03-24T18:14:41</commentDate>
+        <commentTitle>Quatsch: "händisch arbeiten"</commentTitle>
+        <commentId>posting_32093054</commentId>
+        <commentBody>
+          <comment>die Alternative ist nicht händisch, mit Schreibmaschine und Stift arbeiten - sondern ein anständiges System nutzen! Ältere Windows Versionen wären genauso geeignet oder eben Linux Aber ansonsten FACK zu deiner Argumentation, die Betreiber haften persönlich.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>RC</userName>
+        <commentDate>2018-03-24T18:25:05</commentDate>
+        <commentTitle>persönlich haften,nicht nur mit Geld,im Wiederholungsfalle...mit Freiheitsentzug</commentTitle>
+        <commentId>posting_32093098</commentId>
+        <commentBody>
+          <comment>Schöner Traum! Ich träume mit Alex</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>MojoBlues</userName>
+        <commentDate>2018-03-24T14:44:44</commentDate>
+        <commentTitle>Apple's "Walled Garden" wird viel stärker kritisiert als die Abhängigkeit von MS</commentTitle>
+        <commentId>posting_32092073</commentId>
+        <commentBody>
+          <comment>Es wird von der Tech-Presse gebetsmühlenartig herunter gebetet: wer Apple kauft, schließt sich selbst im Walled Garden ein. Anscheinend haben aber die Bundes- und Landesbehörden ein ähnliches Problem, nur stattdessen mit Produkten von Microsoft. Ich frage mich daher, wieso man in der deutschen Tech-Presse nicht ähnliches liest wenn man über Produkte von Microsoft spricht? Z.B. so: Microsoft Word ist ein voll ausgestatteter Wordprocessor aber wenn man sich für den Kauf entscheidet sollte man beachten, dass man sich selbst im Unkrautgarten von Microsoft ein schließt...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>NichtViel</userName>
+        <commentDate>2018-03-24T15:34:07</commentDate>
+        <commentTitle>Re: Apple's "Walled Garden" wird viel stärker kritisiert als die Abhängigkeit vo</commentTitle>
+        <commentId>posting_32092315</commentId>
+        <commentBody>
+          <comment>Ach, die gleichen sich immer mehr an. Und zwar auf die einfachere Weise.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>aneu67</userName>
+        <commentDate>2018-03-24T16:18:57</commentDate>
+        <commentTitle>Re: Apple's "Walled Garden" wird viel stärker kritisiert als die Abhängigkeit vo</commentTitle>
+        <commentId>posting_32092542</commentId>
+        <commentBody>
+          <comment>MojoBlues schrieb am 24.03.2018 15:44: Es wird von der Tech-Presse gebetsmühlenartig herunter gebetet: wer Apple kauft, schließt sich selbst im Walled Garden ein. Anscheinend haben aber die Bundes- und Landesbehörden ein ähnliches Problem, nur stattdessen mit Produkten von Microsoft. Ich frage mich daher, wieso man in der deutschen Tech-Presse nicht ähnliches liest wenn man über Produkte von Microsoft spricht? Ganz einfach, Microsoft wird als Universum wahrgenommen, zu dem es kein Außerhalb gibt.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>kopf-schmerz</userName>
+        <commentDate>2018-03-24T16:29:42</commentDate>
+        <commentTitle>Re: Apple's "Walled Garden" wird viel stärker kritisiert als die Abhängigkeit vo</commentTitle>
+        <commentId>posting_32092587</commentId>
+        <commentBody>
+          <comment>Bullshit... Und "Mimimi, alle sind sooo gemein zu mir Apple-User" Die Leute, die sich ernsthaft mit Datenschutz auseinander setzen, regen sich über Apples "Walled Garden" UND die Abhängigkeit von MS auf. Auch über Google und Facebook... Amazon ist auch ein Kandidat. Uber nicht zu vergessen. usw. Ach ja, im Normalfall regen die datenschutzaffinen Leute auch über Geheimdienste auf, insbesondere die NSA... Datenschutz ist wie eine (entschuldigt den Vergleich) eine Jungfrau (m/w), die gerade von einer Armee Orks vergewaltigt wird. Es sind einfach zu viele, um sie immer alle zu nennen. Also denk dran: immer, wenn Du Dich bei Facebook (WhatsApp), Apple, usw. anmeldest, ermöglichst Du einem Ork, sich weiter an der Jungfrau zu vergehen. P.S.: Sorry fürs Bild im Hirn, aber mir schien, der org. Poster hat nicht ganz verstanden, worum es geht, da helfen "starke" Bilder</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>RC</userName>
+        <commentDate>2018-03-24T18:28:57</commentDate>
+        <commentTitle>Re: Danke !</commentTitle>
+        <commentId>posting_32093118</commentId>
+        <commentBody>
+          <comment>Sehr passende Vergleiche Alex</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>OscarWild</userName>
+        <commentDate>2018-03-24T14:43:03</commentDate>
+        <commentTitle>Wenn Microsoft da nicht unverzüglich nachbessert, dann...</commentTitle>
+        <commentId>posting_32092069</commentId>
+        <commentBody>
+          <comment>...sagen wir dem Unternehmen aber mal ordentlich die Meinung, dass wir das gar nicht nett finden. Projekte wie LiMux haben wir ja gerade erst eingestampft. So ist das eben, wenn man sich leichtfertig in eine völlige Abhängigkeit begibt.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>RSP</userName>
+        <commentDate>2018-03-24T15:28:15</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092280</commentId>
+        <commentBody>
+          <comment>OscarWild schrieb am 24.03.2018 15:43: ...sagen wir dem Unternehmen aber mal ordentlich die Meinung, dass wir das gar nicht nett finden. Projekte wie LiMux haben wir ja gerade erst eingestampft. So ist das eben, wenn man sich leichtfertig in eine völlige Abhängigkeit begibt. Typischer Fall von "Erst handeln, dann denken" plus Lobbyismus. Bisher ging das ja auch immer glimpflich aus. Und nun hat man mit Schrecken bemerkt, dass so eine Schlamperei schon in zwei Monaten ziemlich teuer werden kann - und zwar für einen selbst! Tja der Termin ist nun nicht mehr zu halten und einen 'Plan B' scheint es auch nicht zu geben. Kein Wunder, dass Popcorn derzeit nahezu überall ausverkauft ist. RSP.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Popeye2</userName>
+        <commentDate>2018-03-24T17:39:09</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092897</commentId>
+        <commentBody>
+          <comment>... dann wird Europa 25% Zoll auf Datendienste erheben müssen. Also da kann sich dann Amazon, Google,MS, Facebook und Co warm anziehen, wenn über jedweden Datenumsatz 25% Zoll fällig werden. Dann spielt es auch keine Rolle mehr, wenn Gewinne nicht versteuert werden. Von den Einnahmen können wir dann locker unsere Stahlindustrie subventionieren, sollte der Eisen-Zoll doch noch kommen. Also mal ehrlich, ein kräftiger Zollsatz auf undurchsichtige Datengeschäfte, der nur durch offene Standards umgangen werden kann, würde vielleicht ein bisschen mehr Gerechtigkeit bringen</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName/>
+        <commentDate>2018-03-24T20:31:27</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093560</commentId>
+        <commentBody>
+          <comment>leichtfertig? Die Entscheidung in München wurde bestimmt gut durchdacht, aufgrund einer breiten Faktenlage getroffen... Hust</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>OscarWild</userName>
+        <commentDate>2018-03-24T21:03:40</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093654</commentId>
+        <commentBody>
+          <comment>Popeye2 schrieb am 24.03.2018 18:39: ... dann wird Europa 25% Zoll auf Datendienste erheben müssen. Also da kann sich dann Amazon, Google,MS, Facebook und Co warm anziehen, wenn über jedweden Datenumsatz 25% Zoll fällig werden. Du missverstehst da etwas. Nicht das Unternehmen bezahlt Steuern/Zoll/Maut/whatever, sondern der Kunde. Im Konkreten Fall: die Behörden = der Staat = wir alle.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>m.elsken</userName>
+        <commentDate>2018-03-24T14:21:59</commentDate>
+        <commentTitle>Und was machen diese überbezahlten Eggsberden,</commentTitle>
+        <commentId>posting_32091985</commentId>
+        <commentBody>
+          <comment>wenn Microsoft sie stumpf ignoriert oder sich maximal zu einem "Nö" herablässt? Einen auf Rumpelstilzchen machen?</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>cnubby</userName>
+        <commentDate>2018-03-24T14:26:30</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092004</commentId>
+        <commentBody>
+          <comment>m.elsken schrieb am 24.03.2018 15:21: wenn Microsoft sie stumpf ignoriert oder sich maximal zu einem "Nö" herablässt? Einen auf Rumpelstilzchen machen? Nee, sie wechseln zu Apple.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>m.elsken</userName>
+        <commentDate>2018-03-24T14:30:21</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092021</commentId>
+        <commentBody>
+          <comment>cnubby schrieb am 24.03.2018 15:26: Nee, sie wechseln zu Apple. Na, dann ist ja alles gut...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>MvR</userName>
+        <commentDate>2018-03-24T14:46:28</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092079</commentId>
+        <commentBody>
+          <comment>Nicht das Rumpelstilzchen beleidigen. Wehe!</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>cnubby</userName>
+        <commentDate>2018-03-24T14:57:46</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092135</commentId>
+        <commentBody>
+          <comment>m.elsken schrieb am 24.03.2018 15:30: cnubby schrieb am 24.03.2018 15:26: Nee, sie wechseln zu Apple. Na, dann ist ja alles gut... ...und günstiger wird es auch noch. https://www.heise.de/mac-and-i/meldung/Partnerschaft-mit-Apple-Cisco-Chef-hofft-auf-mehr-3768538.html</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>cnubby</userName>
+        <commentDate>2018-03-24T15:13:00</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092205</commentId>
+        <commentBody>
+          <comment>MvR schrieb am 24.03.2018 15:46: Nicht das Rumpelstilzchen beleidigen. Wehe! Deine Antwort in diesem Kontext lässt mich vermuten, dass Du das Märchen nicht wirklich kennst. Nachhilfe gibt es u.a. hier: https://de.wikisource.org/wiki/Rumpelstilzchen_(1857)</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>NichtViel</userName>
+        <commentDate>2018-03-24T15:29:04</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092286</commentId>
+        <commentBody>
+          <quote>wenn Microsoft sie stumpf ignoriert oder sich maximal zu einem "Nö" herablässt? Einen auf Rumpelstilzchen machen?</quote>
+          <comment>wenn Microsoft sie stumpf ignoriert oder sich maximal zu einem "Nö" herablässt? Einen auf Rumpelstilzchen machen? Beispielsweise in München anklopfen. Und, wenn es z. B. nach https://de.wikipedia.org/wiki/Microsoft geht, 3,598 Milliarden USD einfordern? Schließlich muß man selber dann ja nicht unbeträchtliche Sümmchen an die von den beispielsweise genannten Behörden übermittelten Daten abdrücken. Oder gilt auch hier schon wieder einmal das mit Orwells Gleichen und Gleicheren?</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>racor05</userName>
+        <commentDate>2018-03-24T17:57:45</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092987</commentId>
+        <commentBody>
+          <comment>m.elsken schrieb am 24.03.2018 15:21: wenn Microsoft sie stumpf ignoriert oder sich maximal zu einem "Nö" herablässt? Einen auf Rumpelstilzchen machen? Per Dienstanweisung die Nutzung von Win10 in den Behörden unter Strafe stellen bzw. die verantwortlichen SysAdmins wegen Verstöße gegen den Datenschutz vor Gericht zerren.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>m.elsken</userName>
+        <commentDate>2018-03-24T18:29:10</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093120</commentId>
+        <commentBody>
+          <comment>racor05 schrieb am 24.03.2018 18:57: Per Dienstanweisung die Nutzung von Win10 in den Behörden unter Strafe stellen Und dann reumütig zu den alten Siemens-Mainframes mit BS2000 zurückkehren?</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>m.elsken</userName>
+        <commentDate>2018-03-24T18:32:11</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093134</commentId>
+        <commentBody>
+          <comment>cnubby schrieb am 24.03.2018 16:13: Deine Antwort in diesem Kontext lässt mich vermuten, dass Du das Märchen nicht wirklich kennst. Vielleicht den Film... (Werner 1)</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>MannKepetry</userName>
+        <commentDate>2018-03-24T14:20:44</commentDate>
+        <commentTitle>Mit Linux wär das nicht passiert kt</commentTitle>
+        <commentId>posting_32091978</commentId>
+        <commentBody>
+          <comment>kt</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>NichtViel</userName>
+        <commentDate>2018-03-24T15:23:49</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092256</commentId>
+        <commentBody>
+          <comment>Wenn ich mir so ansehe, was beispielsweise(!) so ein kleiner roter Panda alles versucht, wäre ich mit solchen Behauptungen doch etwas leiser.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>MartinDJR</userName>
+        <commentDate>2018-03-24T16:35:12</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092610</commentId>
+        <commentBody>
+          <comment>Im Endeffekt wird nur eines bleiben: Der Staat müsste eine ganze Menge Programmierer anheuern und eine eigene Linux- oder BSD- oder sonstirgendwas -Distribution erstellen. Dann hätte der Staat die Kontrolle darüber, welche Daten warum und an wen übertragen werden. ... kostet leider sehr viel Geld.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>NichtViel</userName>
+        <commentDate>2018-03-24T17:28:44</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092846</commentId>
+        <commentBody>
+          <quote>Im Endeffekt wird nur eines bleiben: Der Staat müsste eine ganze Menge Programmierer anheuern und eine eigene Linux- oder BSD- oder sonstirgendwas -Distribution erstellen.</quote>
+          <comment>Im Endeffekt wird nur eines bleiben: Der Staat müsste eine ganze Menge Programmierer anheuern und eine eigene Linux- oder BSD- oder sonstirgendwas -Distribution erstellen. Und in welchem Jahrhundert wurden dann wenigstens die gröbsten Spionage-Ecken, die da vielleicht vorhanden sind, sicher entfernt? Ein gutes Vierteljahrhundert ist ja schon mal ein Maßstab, oder? Jedenfalls wenn es gelingt, durchgehend äußerst loyale Personen damit zu beschäftigen und alle „feindlichen Agenten“ dauerhaft draußen zu lassen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>audio driver</userName>
+        <commentDate>2018-03-24T18:01:03</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093000</commentId>
+        <commentBody>
+          <comment>MartinDJR schrieb am 24.03.2018 17:35: Im Endeffekt wird nur eines bleiben: Der Staat müsste eine ganze Menge Programmierer anheuern und eine eigene Linux- oder BSD- oder sonstirgendwas -Distribution erstellen. Dann hätte der Staat die Kontrolle darüber, welche Daten warum und an wen übertragen werden. ... kostet leider sehr viel Geld. Deutlich sparsamer dürfte es per DNS-Spoofing werden. Updates lässt man durchlaufen, microsoft.com landet direkt beim BND oder /dev/null.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Tyler Durden</userName>
+        <commentDate>2018-03-24T14:08:56</commentDate>
+        <commentTitle>Wie hat der Landesdatenschutzbeauftragte die Aufforderung an MS übermittelt?</commentTitle>
+        <commentId>posting_32091927</commentId>
+        <commentBody>
+          <comment>Per Brief? Per E-Mail? ...oder hat er auf seinem Win10-Rechner einfach eine @Microsoft.txt-Datei im Dokumente-Ordner abgelegt und ist online gegangen? TD</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>cnubby</userName>
+        <commentDate>2018-03-24T15:57:20</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092430</commentId>
+        <commentBody>
+          <comment>Tyler Durden schrieb am 24.03.2018 15:08: Per Brief? Per E-Mail? ...oder hat er auf seinem Win10-Rechner einfach eine @Microsoft.txt-Datei im Dokumente-Ordner abgelegt und ist online gegangen? TD Nein, vieeel komplizierter! Das lief so ab: Der Sachbearbeiter fasste das Ergebnis seiner Recherche in einem Text zusammen, den er per WhatsApp an seinen Chef auf dessen iPhone X übermittelte (mit dem Hinweis: Geheim. Nur für den Dienstgebrauch!). Besagtes iPX wurde sodann zwecks Versand an Microsoft dem Logistikunternehmen DHL anvertraut. Noch am gleichen Abend trafen sich auf einer Party von Gazprom zufällig der Landesdatenschutzbeauftrage und der Ex-Kanzler Schröder. Beim Smalltalk steckte er Schröder so ganz nebenbei, dass ein Fehler in Siri Unbefugten den Zugriff auf verborgene Lockscreen-Nachrichten ermögliche und diese lauthals ausposaune. Natürlich war sich der Landesdatenschutzbeauftrage sicher, dass Putin noch in der gleichen Nacht davon erfahren würde. Den Fortgang der Geschichte kann sich selbst der unbedarfteste Verschwörungstheoretiker lebhaft vorstellen - Stichworte: Russland, Trump, NSA, CIA, FBI, M$ etc. Das wirklich traurige an der Geschichte: Der DHL-Bote hat bei M$ gar nicht geklingelt sondern hat das Päckchen stattdessen beim Nachbarn abgeliefert. PS: Der freundliche Nachbar war natürlich ein Spion in Apples Diensten. Und so hat M$ nie etwas vom Landesdatenschutzbeauftragen gehört und bleibt natürlich die Antwort schuldig.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>NichtViel</userName>
+        <commentDate>2018-03-24T14:06:21</commentDate>
+        <commentTitle>Verklagen!</commentTitle>
+        <commentId>posting_32091915</commentId>
+        <commentBody>
+          <comment>Nicht gleich. Erst in einem Monat zwei Monaten und einem Tag. Und geklagt wird gegen jene, die bewußt Daten an Dritte weitergeben. Und zwar, da der Inhalt der Datenübertragungen ungekannt und zweifelhaft ist, wegen der ungenehmigten Datenweitergabe! Sollen die doch mal die Einverständniserklärungen vorweisen! Vier Prozent vom … hmmm… Bruttosozialprodukt? Zumindest aber auf Augenhöhe mit denen, die da wider besserem Wissens der Anwender, all die Daten „geschenkt“ wurden. Mit einiger Regelmäßigkeit auch ohne Genehmigung der jeweils Betroffenen. (Aber „heute“ denkt ja schon die eine von den beiden Pappnasen nach …) Update: ja, die Datumsberechnungen …</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Da Man</userName>
+        <commentDate>2018-03-24T15:16:25</commentDate>
+        <commentTitle>Hmmm... einen Versuch wäre es wert...</commentTitle>
+        <commentId>posting_32092218</commentId>
+        <commentBody>
+          <comment/>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>TheLoneWolf</userName>
+        <commentDate>2018-03-24T15:16:35</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092219</commentId>
+        <commentBody>
+          <comment>NichtViel schrieb am 24.03.2018 15:06: Sollen die doch mal die Einverständniserklärungen vorweisen! Die hast du vermutlich mit der Bestätigung der EULA erteilt. Wobei fraglich ist ob hier nicht noch der Tatbestand der Nötigung ins Spiel kommt.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>NichtViel</userName>
+        <commentDate>2018-03-24T15:22:29</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092253</commentId>
+        <commentBody>
+          <quote>Die hast du vermutlich mit der Bestätigung der EULA erteilt.</quote>
+          <comment>Die hast du vermutlich mit der Bestätigung der EULA erteilt. Seit wann gibt es Behörden-EULAs? (Ansonsten und wie auch immer: die Ecke hier ist restlos frei von Windows! Das Fenster wurde vor Jahren geöffnet und benutzt!)</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Amok Achim</userName>
+        <commentDate>2018-03-24T14:01:39</commentDate>
+        <commentTitle>Amateure</commentTitle>
+        <commentId>posting_32091896</commentId>
+        <commentBody>
+          <comment>Daß Windows 10 eine Datenschleuder ist, ist von Anfang an bekannt gewesen. Dort hätte bereits eine Exit-Strategie (wohl zu Linux) formuliert werden müssen, die bis ca. 2020 hätte umgesetzt werden können. Das Gelaber jetzt kann man sich dagegen sparen, darüber lacht Microsoft nur.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName/>
+        <commentDate>2018-03-24T14:00:55</commentDate>
+        <commentTitle>keine Firewall?</commentTitle>
+        <commentId>posting_32091894</commentId>
+        <commentBody>
+          <comment>Die IP-Adressen von Microsoft werden in der Firewall nicht blockiert? Die haben gar keine Firewall? M. Boettcher</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>TheLoneWolf</userName>
+        <commentDate>2018-03-24T14:56:39</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092127</commentId>
+        <commentBody>
+          <comment>Michael Boettcher schrieb am 24.03.2018 15:00: Die IP-Adressen von Microsoft werden in der Firewall nicht blockiert? Die haben gar keine Firewall? Sicher ne Fritzbox dazwischen, die hat ne Firewall Spass beseite, ich könnte mir sehr gut vorstellen daß Windows 10 dann irgendwann anfängt rumzuzicken, z.B. nach 1 Stunde automatischer Shutdown weil das System nicht mehr sich sei</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName/>
+        <commentDate>2018-03-24T15:05:26</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092164</commentId>
+        <commentBody>
+          <comment>Michael Boettcher schrieb am 24.03.2018 15:00: Die IP-Adressen von Microsoft werden in der Firewall nicht blockiert? Die haben gar keine Firewall? M. Boettcher Microsoft hat schon vor etwa 20 Jahren kritisiert, dass "fehlkonfigurierte" Firewall viele ihrer Protokolle blockieren (damals insbesondere NetMeeting). Die Antwort darauf war, dass alle Kommunikation über HTTP möglich sein muss (weil Firewalls nunmal Web-Zugriffe auf beliebige Ziele generell zulassen). Mit genauer Kenntnis der Ziel-Systeme bei Microsoft und/oder der Protokolle, über die kritische (unerwünschte) Daten an Microsoft fließen, könnte man diese Kommunikation im Prinzip blockieren (durch Deep Packet Inspection, also z.B. durch ein IDS/IPS-System). Durch die Verwendung von HTTPS wird es aber schwierig, die Details dieser Kommunikation nachzuvollziehen, insbesondere wenn die Daten über Reverse-Proxies oder andere Systeme zur Optimierung und Lastverteilung laufen, wenn regional unterschiedliche Antworten auf DNS-Requests gesendet werden (also kaum möglich ist alle IP-Adressen der Zielsysteme systematisch zu erfassen) oder andere Komplikationen auftreten. Das Filtern datenschutzrelevanter Informationen mit Firewalls ist jedenfalls kaum praktikabel, denn man sieht den Paketen nicht ohne weiteres an, wie DS-relevant ihr Inhalt ist. Und sobald eine "sichere" Ende-zu-Ende-Verschlüsselung zu den Systemen von Microsoft aufgebaut wird, ist es ohnehin nicht mehr so einfach nachzuprüfen, ob mit der Anfrage für Updates nicht doch kritische Informationen gesendet werden. Microsoft kann (im Namen der Sicherheit) z.B. ein Certificate-Pinning verwenden, mit dem sie das Aufbrechen von TLS-Verbindungen erkennen und verhindern können. Die Lösung kann nur sein, dass Microsoft die exakten Details der Kommunikation mit ihren Servern offenlegt und konfigurierbar macht - schrittweise sind sie (ganz langsam) in dieser Richtung unterwegs. Die bessere Lösung wäre, auf Produkte von Microsoft und anderen Firmen, deren Einhaltung von Datenschutzregeln man nicht wirksam prüfen kann, zu verzichten. Aber das ist wegen der Abhängigkeit vieler Firmen und Behörden von MS-Office (und anderer nur für Windows verfügbarer Software) kaum praktikabel. Und ich rechne auch für die absehbare Zukunft nicht damit, dass wir da sehr viel weiter kommen werden ...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName/>
+        <commentDate>2018-03-24T15:12:00</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092195</commentId>
+        <commentBody>
+          <comment>TheLoneWolf schrieb am 24.03.2018 15:56: Michael Boettcher schrieb am 24.03.2018 15:00: Die IP-Adressen von Microsoft werden in der Firewall nicht blockiert? Die haben gar keine Firewall? Sicher ne Fritzbox dazwischen, die hat ne Firewall Spass beseite, ich könnte mir sehr gut vorstellen daß Windows 10 dann irgendwann anfängt rumzuzicken, z.B. nach 1 Stunde automatischer Shutdown weil das System nicht mehr sich sei Gerade wirksame Sicherheitsmaßnahmen (z.B. gegen Aufbrechen geschützte Ende-zu-Ende-Verbindungen) verhindern, dass die übertragenen Daten überprüft werden können. Und solche sicheren Verbindungen wünscht man zum Beispiel für die Auslieferung von Updates (wobei die auch nachträglich auf Manipulation überprüft werden könnten, für die müsste es keine sicher verschlüsselte Verbindung geben - aber vielleicht möchte ich ja nicht der ganzen Welt mitteilen, dass auf meinem System noch ein wichtiger Patch fehlt ...). Das ist ein grundsätzliches Dilemma bei strikten Sicherheits-Maßnahmen: Wenn keine einfachen Prüf- und Auditier-Möglichkeiten vorgesehen sind, dann "schützen" die Sicherheitsmaßnahmen eben auch vor einer Kontrolle durch die Nutzer. Und umgekehrt: Wenn solche Prüfmöglichkeiten existieren, dann können sie sehr leicht zu Schwachstellen führen, über die man die Sicherheit der Kommunikation angreifen kann.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Pickwick81</userName>
+        <commentDate>2018-03-24T16:36:33</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092618</commentId>
+        <commentBody>
+          <comment>TheLoneWolf schrieb am 24.03.2018 15:56: Spass beseite, ich könnte mir sehr gut vorstellen daß Windows 10 dann irgendwann anfängt rumzuzicken, z.B. nach 1 Stunde automatischer Shutdown weil das System nicht mehr sich sei Deswegen sind Vorstellungen eben keine Realität, so wie Optimus Prime auch nicht durch meine Straße läuft und auf Decepticons schießt, auch wenn ich mir das "vorstellen" könnte.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>paco9</userName>
+        <commentDate>2018-03-24T18:31:33</commentDate>
+        <commentTitle>Firewall reicht nicht, Filterproxy</commentTitle>
+        <commentId>posting_32093131</commentId>
+        <commentBody>
+          <comment>Michael Boettcher schrieb am 24.03.2018 15:00: Die IP-Adressen von Microsoft werden in der Firewall nicht blockiert? Die haben gar keine Firewall? Das ist nicht so einfach, weil Microsoft ihre Phone-Home Kommunikation auf viele Adressen verteilt. Auch Update-Kanäle könnten zum Tracking benutzt werden, oder um bei den Benutzern Softwareinventarisierung zu betreiben (alle installierten Programme auflisten, Details zur installierten Hardware etc.). Im Grunde ist gar nichts davon vertrauenswürdig. IP-Adressen können sich auch ändern. Dann schon eher URLs oder DNS-Namen beschränken. Am einfachsten kann man es steuern, wenn man im Hauhalt einen kleinen SquidGuard Filterproxy betreibt (auf Fileserver oder einer kleine Raspberry Box). Da kann man beliebige Regeln definieren. Ich würde eher zum 20 Watt sparsamen PC-System als Server raten, weil die regular expressions vieler Filterlisten (auch Adblocker etc.) etwas mehr Rechenpower fordern. Für Updates habe ich feste Wartungszyklen, z.B. 1x die Woche, wo die Update-Ziele kurzfristig mal freigeschaltet werden (squid-konfig mal kurz per script umschalten). Auch bei Mozilla unterbinde ich die ganzen Tracking, Telemetrie, Nutzerexperimente etc. Für Microsoft habe ich derzeit folgende Filterliste in Squidguard eingespeist. Ist nicht unbedingt immer aktuell, filtert jedoch fast alles raus was derzeit von einigen Win10-Maschinen produziert wird. Auch Android-Mobilgeräte und SmartTV muss man in ihre Schranken weisen. Da heute fast jeder Softwarehersteller so arrogant ist, datenschutzwünsche ihrer Nutzer zu ignorieren, kommt man fast kaum noch ohne Filter aus. Auf Android Mobilgeräten kann man NetGuard benutzen. Das geht auch ohne root. Es ist zwar nicht wie squidguard, unterbindet aber zumindest die Schüffelei von Apps, wenn sie im Hintergrund "schlafen". ############################################################### # Sektion für Microsoft windowsupdate.microsoft.com www.windowsupdate.microsoft.com www.download.windowsupdate.com windowsupdate.com windowsupdate.windows.com www.windowsupdate.windows.com genuine.microsoft.com microsoftupdate.com update.microsoft.com microsoftupdate.microsoft.com update.microsoft.com sls.update.microsoft.com fe2.update.microsoft.com microsoftupdate.com windowsupdate.com windowsupdate.microsoft.com #microsofties #.microsoft.com #microsoft.com #www.microsoft.com #crl.microsoft.com codecs.microsoft.com activex.microsoft.com shell.windows.com www.microsoft.com microsoft.com go.microsoft.com go2.microsoft.com support.microsoft.com #download.microsoft.com login.live.com # MS-Office office.microsoft.com office14client.microsoft.com #ms tracking möglich bing.com www.msftncsi.com ipv6.msftncsi.com windowsmedia.com redir.windowsmedia.com www.hotmail.de # Microsoft-Suchmaschinen msn.com related.msn.com ads.eu.msn.com www.msn.de www.msn.com g.msn.de search.msn.de search.msn.com auto.search.msn.com www.msn.com msn.com de.msn.com go.microsoft.com #msdn.com #msdn.microsoft.com #www.msdn.com # ms shops/marketing www.microsoftstore.com # Ads # microsoft tracking, stats/tracking/spy analytics.live.com analytics.microsoft.com analytics.msn.com analytics.atdmt.com clk.atdmt.com c.atdmt.com stats.microsoft.com wustat.windows.com wustats.microsoft.com vortex-win.data.microsoft.com settings-win.data.microsoft.com messaging.office.com nexus.ensighten.com # Windows10, sonstige sperren eu-west-1.compute.amazonaws.com deploy.static.akamaitechnologies.com licensing.mp.microsoft.com v4.download.windowsupdate.com sls.update.microsoft.com # windows 10 store storecatalogrevocation.storequality.microsoft.com storequality.microsoft.com store-images.microsoft.com delivery.mp.microsoft.com mp.microsoft.com s-microsoft.com #&lt;Windows10&gt; # hier Übernahme einer Liste # Windows 10 reporting domains #http://someonewhocares.org/hosts/ a-0001.a-msedge.net a.ads1.msn.com a.ads2.msn.com adnexus.net adnxs.com ads1.msads.net ads1.msn.com ads.msn.com az361816.vo.msecnd.net az512334.vo.msecnd.net choice.microsoft.com choice.microsoft.com.nsatc.net compatexchange.cloudapp.net corpext.msitadfs.glbdns2.microsoft.com corp.sts.microsoft.com df.telemetry.microsoft.com diagnostics.support.microsoft.com feedback.microsoft-hohm.com feedback.search.microsoft.com feedback.windows.com i1.services.social.microsoft.com i1.services.social.microsoft.com.nsatc.net oca.telemetry.microsoft.com oca.telemetry.microsoft.com.nsatc.net pre.footprintpredict.com preview.msn.com rad.msn.com redir.metaservices.microsoft.com reports.wes.df.telemetry.microsoft.com services.wes.df.telemetry.microsoft.com settings-sandbox.data.microsoft.com sqm.df.telemetry.microsoft.com sqm.telemetry.microsoft.com sqm.telemetry.microsoft.com.nsatc.net statsfe1.ws.microsoft.com statsfe2.update.microsoft.com.akadns.net statsfe2.ws.microsoft.com survey.watson.microsoft.com telecommand.telemetry.microsoft.com telecommand.telemetry.microsoft.com.nsatc.net telemetry.appex.bing.net telemetry.appex.bing.net:443 telemetry.microsoft.com telemetry.urs.microsoft.com vortex.data.microsoft.com vortex-sandbox.data.microsoft.com vortex-win.data.microsoft.com # ?? eu.vortex.data.microsoft.com watson.live.com watson.microsoft.com watson.ppe.telemetry.microsoft.com watson.telemetry.microsoft.com watson.telemetry.microsoft.com.nsatc.net wes.df.telemetry.microsoft.com #&lt;/Windows10&gt;</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName/>
+        <commentDate>2018-03-24T20:33:19</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093565</commentId>
+        <commentBody>
+          <comment>Also ich blocke alles was ich an Tracking und Heimtelephonieradressen von MS kenne. Also Ich habe noch nix bemerkt was nicht gehen würde. Sind immer so Schauermärchen</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Stasi</userName>
+        <commentDate>2018-03-24T13:56:58</commentDate>
+        <commentTitle>wie kann ein Unternehmen eigentlich rechtssicher Windows 10 einsetzen?</commentTitle>
+        <commentId>posting_32091875</commentId>
+        <commentBody>
+          <comment>Als Unternehmen darf man seine Mitarbeiter bzw deren Rechner nicht einfach so überwachen, oder gar festhalten, was die im Detail treiben und bei Windows 10 weiß man nichtmal, was da an einen Dritten übertragen wird. Disqualifiziert sich die Software damit nicht automatisch für jeden unternehmerischen Einsatz?</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Raketenpaul</userName>
+        <commentDate>2018-03-24T13:59:22</commentDate>
+        <commentTitle/>
+        <commentId>posting_32091885</commentId>
+        <commentBody>
+          <comment>Stasi schrieb am 24.03.2018 14:56: Als Unternehmen darf man seine Mitarbeiter bzw deren Rechner nicht einfach so überwachen, oder gar festhalten, was die im Detail treiben und bei Windows 10 weiß man nichtmal, was da an einen Dritten übertragen wird. Disqualifiziert sich die Software damit nicht automatisch für jeden unternehmerischen Einsatz? Doch, sofern es sich um Arbeitsrechner handelt und die private Nutzung untersagt ist, kann der Arbeitgeber nach Lust und Laune den Datenverkehr des Rechners überwachen. Auch jede eMail darf gelesen werden sofern es sich um die Firmen Mailadresse handelt. Das Problem ist wohl eher, dass Kundendaten niemals nach geltendem Datenschutzgesetz verarbeitet und gespeichert werden können auf Win10 Rechnern.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>RC</userName>
+        <commentDate>2018-03-24T15:11:27</commentDate>
+        <commentTitle>Re: Garnicht !</commentTitle>
+        <commentId>posting_32092193</commentId>
+        <commentBody>
+          <comment>Macht aber nichts. München geht zurück zur Vergangenheit - sagt alles über das Bewusstsein bezüglich M$. Alex</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>blckguard</userName>
+        <commentDate>2018-03-24T15:13:51</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092208</commentId>
+        <commentBody>
+          <comment>Einfache Sache: Stecker ziehen. Wenn die Kiste nicht online ist, kann sie auch nichts übertragen. Das geht nicht, weil der Arbeitsplatz online sein muss? Tja, dann eben nicht mit Windows10. Und wenn der Staat DAS mal durchsetzen würde, hätten wir morgen eine Windowsversion, die nicht schnüffelt. Denn MS kann es sich nicht leisten, den kompletten EU-Markt zu verlieren.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>thogar</userName>
+        <commentDate>2018-03-24T15:27:48</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092277</commentId>
+        <commentBody>
+          <comment>blckguard schrieb am 24.03.2018 16:13: Einfache Sache: Stecker ziehen. Wenn die Kiste nicht online ist, kann sie auch nichts übertragen. Das geht nicht, weil der Arbeitsplatz online sein muss? Tja, dann eben nicht mit Windows10. Und wenn der Staat DAS mal durchsetzen würde, hätten wir morgen eine Windowsversion, die nicht schnüffelt. Denn MS kann es sich nicht leisten, den kompletten EU-Markt zu verlieren. Wohl kaum, der Drops gilt als gelutscht wenn man weiß was genau übermittelt und ggf. wie es weiter verarbeitet wird. Manches davon wird vielleicht dann aus Windows 10 Business- oder Amts-Versionen seitens MS heraus genommen oder anonymisiert und dann ist Windows 10 wieder im Rennen...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>MarkWolf</userName>
+        <commentDate>2018-03-24T16:35:14</commentDate>
+        <commentTitle>Re: "jede eMail darf gelesen werden"</commentTitle>
+        <commentId>posting_32092611</commentId>
+        <commentBody>
+          <comment>Darf natürlich nicht! Da gibt es eine ganze Reihe von Einschränkungen. Die Feudalzeit ist schon lange vorbei.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>CoolAllo</userName>
+        <commentDate>2018-03-24T16:43:05</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092646</commentId>
+        <commentBody>
+          <comment>Nein, das stimmt auch dann nicht. Es gibt haufenweise Urteile was alles nicht erlaubt ist auch wenn es in irgendwelche Verträge geschrieben wurde. Arbeitgeber hatten auch schon so Ideen wie mit Kameras zu überwachen was Angestellte treiben und so ... aber es sind halt doch keine Leibeigenen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>CREON</userName>
+        <commentDate>2018-03-24T17:18:18</commentDate>
+        <commentTitle>Das ist doch völlig unnötig</commentTitle>
+        <commentId>posting_32092791</commentId>
+        <commentBody>
+          <comment>Art 25 DSGVO sagt ganz klar, wie die Datenschutz-Schieber bei der Installation zu stehen haben. Tun sie das nicht, gibt es 4% Strafe des Weltjahresumsatz. Zwei Wochen Zeit das zu beheben, ab dann ein paar Millionen jeden Tag wegen Verzögerung oben drauf. Ich kann mir vorstellen, MS hat die Lösung bereits im Schrank stehen – sie wird nur ohne Druck von oben nicht ausgerollt.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName/>
+        <commentDate>2018-03-24T20:38:25</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093576</commentId>
+        <commentBody>
+          <comment>wenn man sharepoint, office360 einsetzt... dann macht das den Kohl nicht mehr fett. selbst wenn Microsoft nix böses macht, glaubt jemand n Bitlocker würde die NSA aufhalten?</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Oberguru</userName>
+        <commentDate>2018-03-25T08:55:36</commentDate>
+        <commentTitle>Genau darum geht's doch!</commentTitle>
+        <commentId>posting_32094656</commentId>
+        <commentBody>
+          <comment>thogar schrieb am 24.03.2018 16:27: blckguard schrieb am 24.03.2018 16:13: Einfache Sache: Stecker ziehen. Wenn die Kiste nicht online ist, kann sie auch nichts übertragen. Das geht nicht, weil der Arbeitsplatz online sein muss? Tja, dann eben nicht mit Windows10. Und wenn der Staat DAS mal durchsetzen würde, hätten wir morgen eine Windowsversion, die nicht schnüffelt. Denn MS kann es sich nicht leisten, den kompletten EU-Markt zu verlieren. So hätte es zu sein ... Wohl kaum, der Drops gilt als gelutscht wenn man weiß was genau übermittelt und ggf. wie es weiter verarbeitet wird. Manches davon wird vielleicht dann aus Windows 10 Business- oder Amts-Versionen seitens MS heraus genommen oder anonymisiert und dann ist Windows 10 wieder im Rennen... Eben! Genau darum geht's doch! Wenn alles wirklich harmlos ist, was M$ da alles hochsaugt, dann sollte das doch kein Problem sein. Dass dann immerhin Win10Business einsetzbar wäre, würde doch genau der Unterschied ausmachen. Wenn dann sogar Win10Home unverkäflich würde, wäre noch mehr gewonnen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Rea List</userName>
+        <commentDate>2018-03-24T13:50:34</commentDate>
+        <commentTitle>"Deshalb müssten Alternativen stärker beachtet und unterstützt werden"</commentTitle>
+        <commentId>posting_32091844</commentId>
+        <commentBody>
+          <comment>In your face, München!</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>schap23</userName>
+        <commentDate>2018-03-24T14:00:38</commentDate>
+        <commentTitle/>
+        <commentId>posting_32091893</commentId>
+        <commentBody>
+          <comment>Haben sie untersucht und nach eingehender Prüfung als ungeeignet zurückgewiesen. Man kann da jammern wie man will, aber München hat versucht, auf Linux umzustellen. Das ist gescheitert. Möglicherweise lag es nicht einmal an erster Linie an Linux, aber das Projekt zur Einführung von Linux war zu komplex für die Stadt und die beteiligten Firmen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Rea List</userName>
+        <commentDate>2018-03-24T16:38:01</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092624</commentId>
+        <commentBody>
+          <comment>schap23 schrieb am 24.03.2018 15:00: Haben sie untersucht und nach eingehender Prüfung als ungeeignet zurückgewiesen. Das glaubst Du wirklich? Man kann da jammern wie man will, aber München hat versucht, auf Linux umzustellen. Das ist gescheitert. Nein, die Umstellung lief zwar rauh, aber durchaus erfolgreich. Warum die Umstellung letztenendes gescheitert wurde, sollte doch eigentlich hinlänglich bekannt sein, technische Gründe spielten jedenfalls keine Rolle. Möglicherweise lag es nicht einmal an erster Linie an Linux, aber das Projekt zur Einführung von Linux war zu komplex für die Stadt und die beteiligten Firmen. Nein, die Umstellung war keinesfalls zu komplex, höchstens etwas ungeschickt durchgeführt, aber da hätte man problemlos noch gegensteuern können (und auch müssen), anstatt das Projekt mit Vollgas gegen die Wand zu rammen. Und es geht auch gar nicht um Linux per se, sondern darum, daß es dringend nötig wäre, sich aus der Umklammerung von Microsoft zu befreien und die Hoheit über die eigenen Daten wiederzuerlangen. Durch die Rückmigration ist leider das genaue Gegenteil der Fall, wer 2018 noch auf die Microsoft-Infrastruktur ("Cloud first") migriert, der hatte so viele Schüsse nicht gehört, daß er offensichtlich stocktaub ist.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Bug Rogers</userName>
+        <commentDate>2018-03-24T13:44:48</commentDate>
+        <commentTitle>Realsatire</commentTitle>
+        <commentId>posting_32091817</commentId>
+        <commentBody>
+          <comment>Aber leider überhaupt nicht zum Lachen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Manni G. Faltig</userName>
+        <commentDate>2018-03-24T14:30:00</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092020</commentId>
+        <commentBody>
+          <comment>Bug Rogers schrieb am 24.03.2018 14:44: Aber leider überhaupt nicht zum Lachen. Stimmt leider. In einer mir aus der Innenansicht bekannten öffentlichen Einrichtung gibt es eine klare Empfehlung Windows 10 nicht einzusetzen. Mit der klaren Folge, dass hauptsächlich Windows 10 eingesetzt wird. Dort, wo nicht Windows 10 eingesetzt wird, geschieht dies nicht aufgrund der Empfehlung.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>thogar</userName>
+        <commentDate>2018-03-24T15:20:52</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092244</commentId>
+        <commentBody>
+          <comment>Manni G. Faltig schrieb am 24.03.2018 15:30: Bug Rogers schrieb am 24.03.2018 14:44: Aber leider überhaupt nicht zum Lachen. Stimmt leider. In einer mir aus der Innenansicht bekannten öffentlichen Einrichtung gibt es eine klare Empfehlung Windows 10 nicht einzusetzen. Mit der klaren Folge, dass hauptsächlich Windows 10 eingesetzt wird. Dort, wo nicht Windows 10 eingesetzt wird, geschieht dies nicht aufgrund der Empfehlung. "Demnächst" - warum eigentlich nicht jetzt schon? - gibt es (vielleicht) eine andere Empfehlung vom baden-württembergische Landesdatenschutzbeauftragten Herrn Brink, die am Ergebnis wohl auch nichts ändern wird. Die Erklärung lieferte er ja auch gleich mit, nämlich "gefühlte Abhängigkeit"...</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>AndersrumIstEsRichtig</userName>
+        <commentDate>2018-03-24T13:41:30</commentDate>
+        <commentTitle>Welche Konsequenzen hat das nun für Microsoft?</commentTitle>
+        <commentId>posting_32091800</commentId>
+        <commentBody>
+          <comment>Wird ein Strafverfahren eröffnet? Ein Bußgeld verhängt? Die Firmenzentrale durchsucht? Oder passiert wie bisher... gar nichts?</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Querschädel</userName>
+        <commentDate>2018-03-24T13:45:45</commentDate>
+        <commentTitle/>
+        <commentId>posting_32091823</commentId>
+        <commentBody>
+          <comment>Nichts passiert - vlt. werden ein paar "Koffer" vergessen</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Prokrastes</userName>
+        <commentDate>2018-03-24T13:50:42</commentDate>
+        <commentTitle>Keine</commentTitle>
+        <commentId>posting_32091846</commentId>
+        <commentBody>
+          <comment>Wobei vermutlich darauf gedrängt wird, die Datenschutzaufsicht mit alternativen Mitarbeitern und Richtlinien auszustatten. Nachdem es in München gelang, kommunistische Unterdrückungsbetriebssysteme zu ersetzen, sollte es doch auch gelingen, weltfremde sogenannte Datenschutzbeauftragte entsprechend zu alternieren.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Bastiam</userName>
+        <commentDate>2018-03-24T15:02:07</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092149</commentId>
+        <commentBody>
+          <comment>Ich schätze, Städteverwaltungen - z. B. München - werden auf Linux wechseln.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>basti2k24</userName>
+        <commentDate>2018-03-24T15:21:29</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092246</commentId>
+        <commentBody>
+          <comment>Das in der gesamten EU keine Microsoft-Produkte mehr eingesetzt werden dürfen. Ach wie gut das heute schon keine Behörde in der EU auf Microsoft-Produkte setzt Aber am Ende wird sich an Windows 10 nichts ändern.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>Da Man</userName>
+        <commentDate>2018-03-24T15:26:42</commentDate>
+        <commentTitle>Theoretisch müsste der Einsatz von Windows 10 bald wegen DSGVO verboten werden.</commentTitle>
+        <commentId>posting_32092274</commentId>
+        <commentBody>
+          <comment>Theoretisch. Praktisch wird das sicher nicht passieren. Allerdings könnte das durchaus zu einer Welle an Klagen und Abmahnungen führen, was für staatliche oder andere Nutzer von Windows 10, die mit fremden Daten arbeiten, sehr sehr teuer werden müsste. Auch theoretisch. Ich bin gespannt, wie Theorie und Praxis aufeinander prallen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>andreas1986</userName>
+        <commentDate>2018-03-24T18:39:17</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093168</commentId>
+        <commentBody>
+          <comment>AndersrumIstEsRichtig schrieb am 24.03.2018 14:41: Wird ein Strafverfahren eröffnet? Gegen Microsoft kann in Deutschland kein Strafverfahren eröffnet werden, da Microsoft keine natürliche Person ist.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>commander-keen</userName>
+        <commentDate>2018-03-25T08:00:23</commentDate>
+        <commentTitle>Gilt doch nur für Firmen/Behörden etc., die entsprechende Daten verarbeiten</commentTitle>
+        <commentId>posting_32094488</commentId>
+        <commentBody>
+          <comment>Das gilt doch 'nur' für Firmen/Behörden etc., die entsprechende Daten verarbeiten. Deswegen ist ein Win10 nicht per se illegal. Die entsprechenden Stellen dürfen es nicht mehr einsetzen. Bestenfalls DIE machen sich strafbar.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>commander-keen</userName>
+        <commentDate>2018-03-25T08:02:15</commentDate>
+        <commentTitle>Wieso für Microsoft?</commentTitle>
+        <commentId>posting_32094491</commentId>
+        <commentBody>
+          <comment>Das gilt doch 'nur' für Firmen/Behörden etc., die entsprechende Daten verarbeiten. Deswegen ist ein Win10 nicht per se illegal. Die entsprechenden Stellen dürfen es nicht mehr einsetzen. Bestenfalls DIE machen sich strafbar. Wenn sie eine IT-Lösung ausschreiben, dürften sie MS nicht mehr nehmen.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>KritikMussSein</userName>
+        <commentDate>2018-03-25T09:02:04</commentDate>
+        <commentTitle/>
+        <commentId>posting_32094679</commentId>
+        <commentBody>
+          <quote>Ich schätze, Städteverwaltungen - z. B. München - werden auf Linux wechseln.</quote>
+          <comment>Ich schätze, Städteverwaltungen - z. B. München - werden auf Linux wechseln. LOL [+]</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>theuserbl</userName>
+        <commentDate>2018-03-24T13:37:17</commentDate>
+        <commentTitle>"die Landesdatenschutzbehörde bereits mit Windows 10 ausgestattet."</commentTitle>
+        <commentId>posting_32091780</commentId>
+        <commentBody>
+          <quote>Wie heise online erfuhr, hat die BITBW als IT-Dienstleisterin für die Landesverwaltung in Baden-Württemberg aber ungeachtet der offenen Sicherheitsfragen unter anderem die Landesdatenschutzbehörde bereits mit Windows 10 ausgestattet.</quote>
+          <comment>Wie heise online erfuhr, hat die BITBW als IT-Dienstleisterin für die Landesverwaltung in Baden-Württemberg aber ungeachtet der offenen Sicherheitsfragen unter anderem die Landesdatenschutzbehörde bereits mit Windows 10 ausgestattet. Schön. Und dank des geschwätzigen Windows 10 und seiner übrigen Software, weiß Microsoft immer, was die Datenschutzbehörde gegen Microsoft plant. Poker, bei dem Microsoft in die Karten des Gegners gucken kann. Ganz toll. Grüße theuserbl</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>RSP</userName>
+        <commentDate>2018-03-24T14:50:14</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092096</commentId>
+        <commentBody>
+          <comment>Es ist eigentlich noch einen Tick besser. Da ignoriert die Behörde ihre eigenen Empfehlungen/Vorschriften und setzt nun auf ein gaaanz liebes Bittebittebitte, damit der Hersteller seine Spywarefunktionen ein bischen zurückfährt, damit das Ganze etwas weniger illegal/peinlich wird. Aber es musste ja unbedingt Win10 sein, weil man für alternative Lösungen (wie auch immer die ausgesehen hätten - man hätte sich z.B. auch ein "Spezial-Windows für Behörden" backen lassen können) nicht den Arsch in der Hose hat. Tja, für so eine Aktion verliert man normalerweise jeden Anspruch, auch nur ansatzweise ernst genommen zu werden. RSP.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>CoolAllo</userName>
+        <commentDate>2018-03-24T16:41:38</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092639</commentId>
+        <commentBody>
+          <comment>z.B. China hat ja seine Spezialedition bekommen. Aber Deutschland hat wohl nicht so den Hebel als kleines Land.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>LAZA74</userName>
+        <commentDate>2018-03-24T17:12:42</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092771</commentId>
+        <commentBody>
+          <comment>Eigentlich schon... In 2018 beschaffte Hardware könnte auch locker noch fünf Jarhe mit Windows 8.1 laufen. Zeit, um die Entwicklung abzuwarten und über Windows 10 nachzudenken/nachzubessern. GELD ist die ultimative Waffe!</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>CoolAllo</userName>
+        <commentDate>2018-03-24T17:23:31</commentDate>
+        <commentTitle/>
+        <commentId>posting_32092822</commentId>
+        <commentBody>
+          <comment>Und wenn nicht? Was tun wir dann?</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>RSP</userName>
+        <commentDate>2018-03-24T19:25:04</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093354</commentId>
+        <commentBody>
+          <comment>CoolAllo schrieb am 24.03.2018 17:41: z.B. China hat ja seine Spezialedition bekommen. Aber Deutschland hat wohl nicht so den Hebel als kleines Land. Man könnte ja mit anderen Ländern, die dasselbe Problem haben, eine Gemeinschaft gründen, dann wäre der Markt eventuell groß genug. Vielleicht könnte man sich sogar zu einer europäischen Gemeinschaft aufraffen? OK, die Idee ist absurd. RSP.</comment>
+        </commentBody>
+      </Comment>
+      <Comment>
+        <userName>CoolAllo</userName>
+        <commentDate>2018-03-24T19:39:00</commentDate>
+        <commentTitle/>
+        <commentId>posting_32093411</commentId>
+        <commentBody>
+          <comment>Wenn bei uns selbst Datenschutzbehörden, BSI und ähnliche nicht standhaft sein können, wie sollen die standhaft sein und sich mit einer ganzen Menge anderer Länder koordinieren? Da seh ich schwarz. Die bessere Lösung ist eben sich unabhängig zu machen. Wenn man keine Macht hat, hat man aber doch die Macht zu gehen ... sobald man unabhängig genug ist das zu können.</comment>
+        </commentBody>
+      </Comment>
+    </Comments>
+  </article>
+</output>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="com.machinepublishers:jbrowserdriver:0.17.11">
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/jbrowserdriver-0.17.11.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/httpclient-cache-4.5.2.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/httpclient-4.5.2.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/httpcore-4.4.4.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/commons-logging-1.2.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/slf4j-api-1.7.2.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/selenium-api-2.53.0.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/selenium-remote-driver-2.53.0.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/selenium-server-2.53.0.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/commons-codec-1.10.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/guava-19.0.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/zt-process-1.3.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/zt-exec-1.7.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/jna-3.0.9.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/commons-lang-2.6.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/commons-io-2.2.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/fast-classpath-scanner-2.0.16.jar" />
+  </library>
+  <library name="jdom:jdom:1.1">
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/jdom-1.1.jar" />
+    <archive path="C:/Users/Hajo/IdeaProjects/CommentCrawler/lib/jsoup-1.10.3.jar" />
+  </library>
+</eclipse-userlibraries>
+

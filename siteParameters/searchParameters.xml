@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sites>
+    <site searchResultArticleElementIdentifier="getElementsByClass(search-teaser)" searchResultArticleLinkIdentifier="select(a);first();attr(abs:href)" searchResultNextPageIdentifier="select(div.paginator);first();select(a.link-right);attr(abs:href)" searchURLPrefix="http://www.spiegel.de/suche/index.html?suchbegriff=" searchURLSuffix="&amp;quellenGroup=SPOX)" url="www.spiegel.de">
+    </site>
+	<site searchResultArticleElementIdentifier="getElementsByClass(teaser-small)" searchResultArticleLinkIdentifier="select(a.teaser-small__combined-link);attr(abs:href)" searchResultNextPageIdentifier="select(a.pager__button--next);attr(abs:href)" searchURLPrefix="http://www.zeit.de/suche/index?q=" searchURLSuffix="" url="www.zeit.de">
+    </site>
+	<site searchResultArticleElementIdentifier="getElementsByClass(Teaser620)" searchResultArticleLinkIdentifier="select(a.TeaserHeadLink);attr(abs:href)" searchResultNextPageIdentifier="getElementsByClass(PagerNav);select(a[rel=next]);attr(abs:href)" searchURLPrefix="http://www.faz.net/suche/?query" searchURLSuffix="&amp;resultsPerPage=20" url="www.faz.net">
+	</site>
+	<site searchResultArticleElementIdentifier="getElementsByClass(entrylist__entry)" searchResultArticleLinkIdentifier="select(a.entrylist__link);attr(abs:href)" searchResultNextPageIdentifier="getElementById(paging);getElementsByClass(arrow next);first();select(a);attr(abs:href)" searchURLPrefix="http://www.sueddeutsche.de/news?search=" searchURLSuffix="&amp;sort=date&amp;all%5B%5D=dep&amp;all%5B%5D=typ&amp;all%5B%5D=time&amp;sys%5B%5D=sz&amp;catsz%5B%5D=alles" url="www.sueddeutsche.de">
+	</site>
+
+
+
+<site searchResultArticleElementIdentifier="select(li.article)" searchResultArticleLinkIdentifier="select(a.article);first();attr(abs:href)" searchResultNextPageIdentifier="select(div.sectfoot);first();select(ul.toolbar);first();select(li);last();select(a);attr(abs:href)" searchURLPrefix="http://www.taz.de/%21s=" searchURLSuffix="/" url="www.taz.de"/>
+<site searchResultArticleElementIdentifier="select(div.ts)" searchResultArticleLinkIdentifier="select(a.top);first();attr(abs:href)" searchResultNextPageIdentifier="select(a.pn):first();attr(abs:href)" searchURLPrefix="https://www.google.de/search?q=" searchURLSuffix="&amp;amp;safe=off&amp;amp;source=lnms&amp;amp;tbm=nws&amp;amp;sa=X&amp;amp;ved=0ahUKEwi3oI3U4ITYAhURI-wKHQ3LAlcQ_AUICigB&amp;amp;biw=1920&amp;bih=907" url="Google News"/>
+
+
+
+
+</sites>

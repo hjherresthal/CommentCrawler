@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Class-Path: jsoup-1.11.1.jar
+  jbrowserdriver-0.17.11.jar
+  httpclient-cache-4.5.2.jar
+  httpclient-4.5.2.jar
+  httpcore-4.4.4.jar
+  commons-logging-1.2.jar
+  slf4j-api-1.7.2.jar
+  selenium-api-2.53.0.jar
+  selenium-remote-driver-2.53.0.jar
+  selenium-server-2.53.0.jar
+  commons-codec-1.10.jar
+  guava-19.0.jar
+  zt-process-1.3.jar
+  zt-exec-1.7.jar
+  jna-3.0.9.jar
+  commons-lang-2.6.jar
+  commons-io-2.2.jar
+  fast-classpath-scanner-2.0.16.jar
+  openapi-7.0.3.jar
+  annotations-7.0.3.jar
+  extensions-7.0.3.jar
+Main-Class: Main.Main
+

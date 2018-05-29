@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/CommentCrawler"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="com.machinepublishers:jbrowserdriver:0.17.11" value="project"/>
+		<level name="org.jsoup:jsoup:1.11.1" value="project"/>
+		<level name="com.intellij:openapi:7.0.3" value="project"/>
+	</levels>
+</component>
