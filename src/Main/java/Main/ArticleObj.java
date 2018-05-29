@@ -1,6 +1,5 @@
 package Main;
 
-
 import com.machinepublishers.jbrowserdriver.JBrowserDriver;
 import com.machinepublishers.jbrowserdriver.Settings;
 import com.machinepublishers.jbrowserdriver.UserAgent;
@@ -386,7 +385,7 @@ public class ArticleObj {
             //System.out.println("------------------------------- commentsection:\n" + commentSection);//TODO
 
             Elements comments = (Elements) resolveDomPath(commentSection, commentsIdentifier, timeout);
-            //System.out.println("------------------------------- comments:\n" + comments);//TODO
+            //System.out.println("------------------------------- comments:\n" + comments);
 
             if (comments != null) {
                 for (Element currentElement : comments
