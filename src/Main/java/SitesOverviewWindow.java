@@ -1,5 +1,3 @@
-package Main;
-
 import org.apache.commons.lang.StringEscapeUtils;
 import org.w3c.dom.*;
 import org.xml.sax.SAXException;

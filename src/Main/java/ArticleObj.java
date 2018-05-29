@@ -1,6 +1,3 @@
-package Main;
-
-
 import com.machinepublishers.jbrowserdriver.JBrowserDriver;
 import com.machinepublishers.jbrowserdriver.Settings;
 import com.machinepublishers.jbrowserdriver.UserAgent;
