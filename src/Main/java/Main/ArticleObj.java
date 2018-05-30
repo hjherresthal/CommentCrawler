@@ -449,7 +449,7 @@ public class ArticleObj {
                         org.w3c.dom.Element commentQuote = doc.createElement("quote");
                         commentQuote.appendChild(doc.createTextNode((String) resolveDomPath(currentElement, quoteWithoutCommentIdentifier, timeout)));
                         String quoteTarget = (String) resolveDomPath(currentElement, quoteTargetCommentIdIdentifier, timeout);
-                        if (Objects.requireNonNull(quoteTarget).contains("#")) { //TODO auf generisch ändern
+                        if (Objects.requireNonNull(quoteTarget).contains("#")) { //TODO change to generic
                             quoteTarget = quoteTarget.substring(quoteTarget.indexOf("#") + 1);
                             commentQuote.setAttribute("target", quoteTarget);
                         }
